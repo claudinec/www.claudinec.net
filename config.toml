@@ -8,3 +8,7 @@ theme = "hugo-xmin"
     identifier = "home"
     name = "Home"
     url = "/"
+
+[params]
+  author = "Claudine Chionh"
+  footer = "Created with [Hugo](https://gohugo.io/) | [XMin theme](https://xmin.yihui.name/)"
