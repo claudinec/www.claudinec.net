@@ -1,3 +1,10 @@
 baseURL = "http://www.claudinec.net/"
 languageCode = "en-au"
 title = "Claudine Chionh"
+theme = "hugo-xmin"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
