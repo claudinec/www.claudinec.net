@@ -8,6 +8,25 @@ theme = "hugo-xmin"
     identifier = "home"
     name = "Home"
     url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/claudinec"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "so-story"
+    name = "Stack Overflow"
+    url = "https://stackoverflow.com/story/claudinec"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/claudinec"
+    weight = 4
 
 [params]
   author = "Claudine Chionh"
