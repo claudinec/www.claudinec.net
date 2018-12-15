@@ -1,1 +1,1 @@
-Hugo source for http://www.claudinec.net/
+[Hugo](https://gohugo.io/) source for http://www.claudinec.net/
