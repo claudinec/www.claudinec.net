@@ -28,6 +28,12 @@ theme = "hugo-xmin"
     url = "https://twitter.com/claudinec"
     weight = 4
 
+  [[menu.main]]
+    identifier = "keybase"
+    name = "Keybase"
+    url = "https://keybase.io/claudinec"
+    weight = 5
+
 [params]
   author = "Claudine Chionh"
   footer = "Created with [Hugo](https://gohugo.io/) | [XMin theme](https://xmin.yihui.name/)"
