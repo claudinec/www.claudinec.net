@@ -1,6 +1,5 @@
 ---
 name: Claudine Chionh
-# position: "Professor"
 qualifications: BA, MPH
 address: "Melbourne, Australia"
 phone: +61 418 592 269
