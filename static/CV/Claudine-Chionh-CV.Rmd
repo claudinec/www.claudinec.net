@@ -39,29 +39,14 @@ orcid_edu$`education-summary` %>%
 
 ```{r employment}
 emp_csv <- read.csv("employment.csv")
-brief_entries(emp_csv,
-                 what = what,
-                 when = when,
-                 with = with)
+# brief_entries(emp_csv,
+#                  what = what,
+#                  when = when,
+#                  with = with)
 detailed_entries(emp_csv,
                  what = what,
                  when = when,
                  with = with,
                  where = where,
-                 why = as.list(why))
-
-orcid_emp <- rorcid::orcid_employments("0000-0001-5916-0277")$`0000-0001-5916-0277`
-orcid_emp_with <-
-  if_else(
-    !is.na(orcid_emp$`employment-summary`$`department-name`),
-      glue::glue("{orcid_emp$`employment-summary`$`department-name`}, {orcid_emp$`employment-summary`$`organization.name`}"),
-      orcid_emp$`employment-summary`$`organization-name`
-    )
-orcid_emp$`employment-summary` %>%
-  detailed_entries(
-    what = `role-title`,
-    when = glue::glue("{`start-date.year.value`} - {`end-date.year.value`}"),
-    with = orcid_emp_with,
-    where = organization.address.city
-  )
+                 why = why)
 ```
