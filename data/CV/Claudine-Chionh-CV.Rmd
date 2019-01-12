@@ -10,6 +10,7 @@ twitter: claudinec
 github: claudinec
 linkedin: claudinec
 aboutme: "I have worked as a data scientist, web developer, and technology consultant in research institutions and progressive organisations in Australia."
+profilepic: CCprofile.jpg
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::twentyseconds
 ---
