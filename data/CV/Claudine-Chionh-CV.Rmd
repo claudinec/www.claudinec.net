@@ -1,0 +1,53 @@
+---
+name: Claudine Chionh
+# position: "Professor"
+qualifications: BA, MPH
+address: "Melbourne, Australia"
+phone: +61 418 592 269
+www: www.claudinec.net
+email: "public@claudinec.net"
+twitter: claudinec
+github: claudinec
+linkedin: claudinec
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(dplyr)
+library(rorcid)
+library(vitae)
+```
+
+# Education
+
+```{r education}
+orcid_edu <- rorcid::orcid_educations("0000-0001-5916-0277")$`0000-0001-5916-0277`
+orcid_edu$`education-summary` %>%
+  detailed_entries(
+    what = `role-title`,
+    when = glue::glue("{`start-date.year.value`} - {`end-date.year.value`}"),
+    with = organization.name,
+    where = organization.address.city
+  )
+```
+
+# Employment
+
+```{r employment}
+orcid_emp <- rorcid::orcid_employments("0000-0001-5916-0277")$`0000-0001-5916-0277`
+orcid_emp_with <-
+  if_else(
+    !is.na(orcid_emp$`employment-summary`$`department-name`),
+      glue::glue("{orcid_emp$`employment-summary`$`department-name`}, {orcid_emp$`employment-summary`$`organization.name`}"),
+      orcid_emp$`employment-summary`$`organization-name`
+    )
+orcid_emp$`employment-summary` %>%
+  detailed_entries(
+    what = `role-title`,
+    when = glue::glue("{`start-date.year.value`} - {`end-date.year.value`}"),
+    with = orcid_emp_with,
+    where = organization.address.city
+  )
+```
