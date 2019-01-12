@@ -4,13 +4,14 @@ name: Claudine Chionh
 qualifications: BA, MPH
 address: "Melbourne, Australia"
 phone: +61 418 592 269
-www: www.claudinec.net
+www: "www.claudinec.net"
 email: "public@claudinec.net"
 twitter: claudinec
 github: claudinec
 linkedin: claudinec
+aboutme: "I have worked as a data scientist, web developer, and technology consultant in research institutions and progressive organisations in Australia."
 date: "`r format(Sys.time(), '%B %Y')`"
-output: vitae::moderncv
+output: vitae::twentyseconds
 ---
 
 ```{r setup, include=FALSE}
