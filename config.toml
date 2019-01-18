@@ -11,12 +11,6 @@ theme = "hugo-xmin"
     weight = 1
 
   [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv/claudine-chionh.pdf"
-    weight = 2
-
-  [[menu.main]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/claudinec"
@@ -39,12 +33,6 @@ theme = "hugo-xmin"
     name = "Keybase"
     url = "https://keybase.io/claudinec"
     weight = 15
-
-  [[menu.main]]
-    identifier = "email"
-    name = "Email"
-    url = "mailto:public@claudinec.net"
-    weight = 20
 
 [params]
   author = "Claudine Chionh"
