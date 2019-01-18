@@ -14,25 +14,25 @@ theme = "hugo-xmin"
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/claudinec"
-    weight = 2
+    weight = 12
 
   [[menu.main]]
     identifier = "so-story"
     name = "Stack Overflow"
     url = "https://stackoverflow.com/story/claudinec"
-    weight = 3
+    weight = 13
 
   [[menu.main]]
     identifier = "twitter"
     name = "Twitter"
     url = "https://twitter.com/claudinec"
-    weight = 4
+    weight = 14
 
   [[menu.main]]
     identifier = "keybase"
     name = "Keybase"
     url = "https://keybase.io/claudinec"
-    weight = 5
+    weight = 15
 
 [params]
   author = "Claudine Chionh"
