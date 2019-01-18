@@ -34,12 +34,6 @@ theme = "hugo-xmin"
     url = "https://keybase.io/claudinec"
     weight = 15
 
-  [[menu.main]]
-    identifier = "email"
-    name = "Email"
-    url = "mailto:info@claudinec.net"
-    weight = 20
-
 [params]
   author = "Claudine Chionh"
   footer = "Created with [Hugo](https://gohugo.io/) | [XMin theme](https://xmin.yihui.name/)"
