@@ -7,11 +7,11 @@ theme = "hermit"
   name = "Claudine Chionh"
 
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+  # [[menu.main]]
+  #   identifier = "home"
+  #   name = "Home"
+  #   url = "/"
+  #   weight = 1
 
   [[menu.main]]
     name = "Blog"
@@ -32,3 +32,6 @@ theme = "hermit"
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/claudinec"
+  [[params.social]]
+    name = "email"
+    url = "mailto:info@claudinec.net"
