@@ -1,7 +1,10 @@
 baseURL = "http://www.claudinec.net/"
 languageCode = "en-au"
 title = "Claudine Chionh"
-theme = "hugo-xmin"
+theme = "hermit"
+
+[author]
+  name = "Claudine Chionh"
 
 [menu]
   [[menu.main]]
@@ -11,29 +14,21 @@ theme = "hugo-xmin"
     weight = 1
 
   [[menu.main]]
-    identifier = "github"
-    name = "GitHub"
-    url = "https://github.com/claudinec"
-    weight = 12
-
-  [[menu.main]]
-    identifier = "so-story"
-    name = "Stack Overflow"
-    url = "https://stackoverflow.com/story/claudinec"
-    weight = 13
-
-  [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/claudinec"
-    weight = 14
-
-  [[menu.main]]
-    identifier = "keybase"
-    name = "Keybase"
-    url = "https://keybase.io/claudinec"
-    weight = 15
+    name = "Blog"
+    url = "posts/"
+    weight = 10
 
 [params]
   author = "Claudine Chionh"
-  footer = "Created with [Hugo](https://gohugo.io/) | [XMin theme](https://xmin.yihui.name/)"
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  homeSubtitle = "Words, stories, tech."
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/claudinec"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/claudinec"
