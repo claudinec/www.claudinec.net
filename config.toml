@@ -7,12 +7,6 @@ theme = "hermit"
   name = "Claudine Chionh"
 
 [menu]
-  # [[menu.main]]
-  #   identifier = "home"
-  #   name = "Home"
-  #   url = "/"
-  #   weight = 1
-
   [[menu.main]]
     name = "Blog"
     url = "posts/"
@@ -20,11 +14,11 @@ theme = "hermit"
 
 [params]
   author = "Claudine Chionh"
-  dateform        = "2 Jan, 2006"
+  dateform        = "2 Jan 2006"
   dateformShort   = "2 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "Words, stories, tech."
+  homeSubtitle = "Words, stories, tech"
 
   [[params.social]]
     name = "github"
