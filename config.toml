@@ -30,6 +30,9 @@ theme = "hermit"
     name = "github"
     url = "https://github.com/claudinec"
   [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/claudinec"
+  [[params.social]]
     name = "twitter"
     url = "https://twitter.com/claudinec"
   [[params.social]]
