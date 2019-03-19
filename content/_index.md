@@ -6,4 +6,4 @@ draft: false
 
 # About Claudine Chionh
 
-Accidental data scientist, queer theologian in training, and perennial dabbler, located in Melbourne, Australia. I am open to opportunities to use my research, technical, and campaigning experience to work on progressive causes as part of a team that learns together.
+I am seeking opportunities to develop as a writer while drawing on my professional experience in medical and social research, web development, and political campaigning. My writing experience has comprised internal technical documentation and training, postgraduate-level research papers, and book reviews. I am exploring further directions for writing, including technical writing, social and policy research, and literary non-fiction.

@@ -11,6 +11,10 @@ theme = "hermit"
     name = "Blog"
     url = "posts/"
     weight = 10
+  [[menu.main]]
+    name = "Writing"
+    url = "writing/"
+    weight = 20
 
 [params]
   author = "Claudine Chionh"
