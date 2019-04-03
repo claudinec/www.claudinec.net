@@ -38,5 +38,8 @@ theme = "hermit"
     name = "twitter"
     url = "https://twitter.com/claudinec"
   [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/ClaudineChionhWriterTechnologist/"
+  [[params.social]]
     name = "email"
     url = "mailto:info@claudinec.net"
