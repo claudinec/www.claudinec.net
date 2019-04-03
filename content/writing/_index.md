@@ -8,7 +8,7 @@ I am seeking opportunities to develop as a writer while drawing on my profession
 
 ## Representative publications
 
-Chionh, Claudine. 2015. ‘Some Uniting Church Clergy Prepared to Perform Same-Sex Marriages If Law Changes’. _The Citizen_, 29 May 2015. http://www.thecitizen.org.au/news/some-uniting-church-clergy-prepared-perform-same-sex-marriages-if-law-changes.
+Chionh, Claudine. 2015. [‘Some Uniting Church Clergy Prepared to Perform Same-Sex Marriages If Law Changes’.](http://www.thecitizen.org.au/news/some-uniting-church-clergy-prepared-perform-same-sex-marriages-if-law-changes.) _The Citizen_, 29 May 2015.
 
 Chionh, Claudine. 2007. ‘Ethical Problems in Refugee Research’. MPH minor thesis, Melbourne: The University of Melbourne.
 
