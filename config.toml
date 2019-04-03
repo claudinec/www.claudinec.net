@@ -15,6 +15,10 @@ theme = "hermit"
     name = "Writing"
     url = "writing/"
     weight = 20
+  [[menu.main]]
+    name = "Tech"
+    url = "tech/"
+    weight = 30
 
 [params]
   author = "Claudine Chionh"
@@ -33,6 +37,9 @@ theme = "hermit"
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/claudinec"
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/ClaudineChionhWriterTechnologist/"
   [[params.social]]
     name = "email"
     url = "mailto:info@claudinec.net"
