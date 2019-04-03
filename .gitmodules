@@ -3,4 +3,4 @@
 	url = git@github.com:yihui/hugo-xmin.git
 [submodule "themes/hermit"]
 	path = themes/hermit
-	url = https://github.com/Track3/hermit.git
+	url = git@github.com:Track3/hermit.git
