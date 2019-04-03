@@ -2,6 +2,8 @@
 title: "Consulting"
 date: 2019-01-18T14:56:20+11:00
 draft: false
+tags:
+- consulting
 ---
 
 While I continue to reflect on possibilities for long-term career direction, I also need to find small jobs or projects to work on to provide an income. I have reactivated my ABN and am open to suitable contract work. I don't know exactly what ratio of technical to non-technical work will sustain me in the long term, but I have a variety of skills that I can offer for short-term work.
