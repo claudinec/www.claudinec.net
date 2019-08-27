@@ -9,7 +9,7 @@ tags:
 ---
 
 [tl;dr](https://en.wiktionary.org/wiki/tl;dr): I have withdrawn from my
-PhD and will start a Master of Information Management in February 2019.
+PhD and will start a Master of Information Management in February 2020.
 
 From mid-2017 to mid-2018, I was enrolled in a PhD at the University of
 Divinity, on the topic of queer Christian autobiographies as expressions
