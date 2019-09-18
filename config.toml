@@ -20,5 +20,5 @@ paginate = 5
   themeColor      = "blue"
 
   [params.logo]
-    logoText = "Home"
+    logoText = "Claudine Chionh"
     logoHomeLink = "/"
