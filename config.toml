@@ -22,3 +22,42 @@ paginate = 5
   [params.logo]
     logoText = "Claudine Chionh"
     logoHomeLink = "/"
+
+[menu]
+
+  [[menu.main]]
+    identfier = "cv"
+    name      = "CV"
+    url       = "/cv"
+    weight    = 10
+
+  [[menu.main]]
+    identfier = "github"
+    name      = "GitHub"
+    url       = "https://github.com/claudinec"
+    weight    = 20
+
+  [[menu.main]]
+    identfier = "linkedin"
+    name      = "LinkedIn"
+    url       = "https://www.linkedin.com/in/claudinec/"
+    weight    = 30
+
+  [[menu.main]]
+    identfier = "twitter"
+    name      = "Twitter"
+    url       = "https://twitter.com/claudinec"
+    weight    = 40
+
+  [[menu.main]]
+    identfier = "pgp"
+    name      = "PGP"
+    url       = "https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921"
+    weight    = 50
+
+  [[menu.main]]
+    identfier = "email"
+    name      = "Email"
+    url       = "mailto:info@claudinec.net"
+    weight    = 60
+
