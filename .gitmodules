@@ -4,3 +4,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = git@github.com:Track3/hermit.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:panr/hugo-theme-terminal.git
