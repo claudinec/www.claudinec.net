@@ -1,8 +1,10 @@
 baseURL = "https://www.claudinec.net/"
 languageCode = "en-au"
 title = "Claudine Chionh"
-theme = "terminal"
+theme = "hugo-dusk"
 paginate = 5
+pygmentsStyle = "native"
+pygmentsCodeFences = true
 
 [author]
   name = "Claudine Chionh"
@@ -15,6 +17,7 @@ paginate = 5
   dateformNumTime = "2006-01-02 15:04 -0700"
   homeSubtitle    = "Words, stories, tech"
   contentTypeName = "posts"
+<<<<<<< HEAD
   fullWidthTheme  = false
   centerTheme     = true
   themeColor      = "blue"
@@ -22,3 +25,9 @@ paginate = 5
   [params.logo]
     logoText = "Claudine Chionh"
     logoHomeLink = "/"
+=======
+  github          = "claudinec"
+  twitter         = "claudinec"
+  linkedin        = "claudinec"
+  email           = "info@claudinec.net"
+>>>>>>> feature/dusk-theme
