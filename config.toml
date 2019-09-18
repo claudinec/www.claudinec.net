@@ -1,24 +1,11 @@
 baseURL = "https://www.claudinec.net/"
 languageCode = "en-au"
 title = "Claudine Chionh"
-theme = "hermit"
+theme = "terminal"
+paginate = 5
 
 [author]
   name = "Claudine Chionh"
-
-[menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "posts/"
-    weight = 10
-  [[menu.main]]
-    name = "Writing"
-    url = "writing/"
-    weight = 20
-  [[menu.main]]
-    name = "Tech"
-    url = "tech/"
-    weight = 30
 
 [params]
   author = "Claudine Chionh"
@@ -26,20 +13,12 @@ theme = "hermit"
   dateformShort   = "2 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "Words, stories, tech"
+  homeSubtitle    = "Words, stories, tech"
+  contentTypeName = "posts"
+  fullWidthTheme  = false
+  centerTheme     = true
+  themeColor      = "blue"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/claudinec"
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/claudinec"
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/claudinec"
-  [[params.social]]
-    name = "facebook"
-    url = "https://www.facebook.com/ClaudineChionhWriterTechnologist/"
-  [[params.social]]
-    name = "email"
-    url = "mailto:info@claudinec.net"
+  [params.logo]
+    logoText = "Home"
+    logoHomeLink = "/"
