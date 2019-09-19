@@ -4,8 +4,6 @@ date: 2019-09-19T11:22:46+10:00
 draft: true
 ---
 
-## Professional
-
 My career has traced converging threads that first appeared in
 childhood, when I spent most of my free time reading books and making
 zines, learning computer programming and building databases. I have
@@ -21,10 +19,4 @@ directions in archives, libraries, or digital humanities, I am
 particularly interested in learning about, and practising, digital
 preservation in a climate of planned obsolescence and the possible
 impending end of life as we know it.
-
-## Personal
-
-## The professional is personal
-
-And political, too.
 
