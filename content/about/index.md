@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-09-19T11:22:46+10:00
-draft: true
+draft: false
 ---
 
 My career has traced converging threads that first appeared in
