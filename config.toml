@@ -26,6 +26,12 @@ paginate = 5
 [menu]
 
   [[menu.main]]
+    identfier = "about"
+    name      = "About"
+    url       = "/about"
+    weight    = 5
+
+  [[menu.main]]
     identfier = "cv"
     name      = "CV"
     url       = "/cv"
