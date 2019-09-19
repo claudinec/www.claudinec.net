@@ -3,8 +3,8 @@ title: "Pivot"
 date: 2019-08-27T19:19:30+10:00
 draft: false
 tags:
-- archivists
-- librarians
+- archives
+- libraries
 - glam
 ---
 
