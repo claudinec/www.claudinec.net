@@ -14,9 +14,6 @@ computing and technology. I am committed to the principles of free and
 open source software, and in the past have helped lead the Melbourne
 chapter of [LinuxChix](https://www.linuxchix.org/) and [Linux Users of
 Victoria](https://luv.asn.au/). In 2020 I will begin studying
-Information Management at RMIT University. While I am open to new career
-directions in archives, libraries, or digital humanities, I am
-particularly interested in learning about, and practising, digital
-preservation in a climate of planned obsolescence and the possible
-impending end of life as we know it.
+Information Management at RMIT University and am open to new career
+directions in archives, libraries, or digital humanities.
 
