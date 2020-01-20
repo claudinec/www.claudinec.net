@@ -6,14 +6,41 @@ draft: false
 
 ## Experience
 
+### Independent Research Consultant
+
+_2019 to present_
+
+Assisting in editing research reports and doctoral theses.
+
 ### Advisory Board Member and Director, intertwine
 
 _2017 (Board) to present  
 2019 (Director) to present_
 
-intertwine is both an organisation and a network of intersectional
-organisations working together with non-profit organisations to
-understand and move beyond oppression and injustice.
+Company strategy and intersectionality training.
+
+### Freelance Technology Consultant
+
+_2013 to present_
+
+Helped clients to plan and implement digital solutions using the following technologies:
+
+- Drupal content management system
+- NationBuilder contact database and content management system
+- WordPress content management system
+
+Clients and projects included:
+
+- NationBuilder consultant, Darebin Climate Action Now (April – December 2016)
+- NationBuilder consultant, Women's Electoral Lobby (June – September 2015)
+- NationBuilder consultant, Project Respect (March – August 2015)
+- NationBuilder consultant, Beyond Zero Emissions Energy Freedom Project  (January – February 2015)
+- WordPress developer and technology consultant, Eugénie Austin, visual artist (July 2014 – July 2015)
+- Drupal developer and technology consultant, Australian Greens Victoria (April – June 2014)
+- Contract Drupal developer, Portable Studios (March 2013 – February 2014)
+    - [Centre for Multicultural Youth](http://cmy.net.au/) website
+    - The Wilderness Society – Drupal and mailing list integration
+
 
 ### Technology Coordinator, Australian Student Christian Movement
 
@@ -65,29 +92,6 @@ _2015 to 2016_
 
 * Presenter, producer and podcast editor on the Spirit Lounge
 * Presenter and producer on The Informer
-
-### Freelance Technology Consultant
-
-_2013 – 2016_
-
-Helped clients to plan and implement digital solutions using the following technologies:
-
-- Drupal content management system
-- NationBuilder contact database and content management system
-- WordPress content management system
-
-Clients and projects included:
-
-- NationBuilder consultant, Darebin Climate Action Now (April – December 2016)
-- NationBuilder consultant, Women's Electoral Lobby (June – September 2015)
-- NationBuilder consultant, Project Respect (March – August 2015)
-- NationBuilder consultant, Beyond Zero Emissions Energy Freedom Project  (January – February 2015)
-- WordPress developer and technology consultant, Eugénie Austin, visual artist (July 2014 – July 2015)
-- Drupal developer and technology consultant, Australian Greens Victoria (April – June 2014)
-- Contract Drupal developer, Portable Studios (March 2013 – February 2014)
-    - [Centre for Multicultural Youth](http://cmy.net.au/) website
-    - The Wilderness Society – Drupal and mailing list integration
-
 ### Volunteer, Adam Bandt Federal Election Campaign
 
 _2013_
