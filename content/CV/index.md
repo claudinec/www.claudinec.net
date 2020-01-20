@@ -31,6 +31,7 @@ Helped clients to plan and implement digital solutions using the following techn
 
 Clients and projects included:
 
+- WordPress consultant, [The Venny](https://thevenny.org.au/) (2019)
 - NationBuilder consultant, Darebin Climate Action Now (April – December 2016)
 - NationBuilder consultant, Women's Electoral Lobby (June – September 2015)
 - NationBuilder consultant, Project Respect (March – August 2015)
@@ -38,9 +39,8 @@ Clients and projects included:
 - WordPress developer and technology consultant, Eugénie Austin, visual artist (July 2014 – July 2015)
 - Drupal developer and technology consultant, Australian Greens Victoria (April – June 2014)
 - Contract Drupal developer, Portable Studios (March 2013 – February 2014)
-    - [Centre for Multicultural Youth](http://cmy.net.au/) website
+    - Centre for Multicultural Youth website
     - The Wilderness Society – Drupal and mailing list integration
-
 
 ### Technology Coordinator, Australian Student Christian Movement
 
