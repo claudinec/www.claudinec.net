@@ -1,7 +1,7 @@
 baseURL = "https://www.claudinec.net/"
-languageCode = "en-au"
+# languageCode = "en-au"
 title = "Claudine Chionh"
-theme = "terminal"
+theme = "hugo-xmin"
 paginate = 5
 
 [author]
@@ -55,15 +55,15 @@ paginate = 5
     url       = "https://twitter.com/claudinec"
     weight    = 40
 
-  [[menu.main]]
-    identfier = "pgp"
-    name      = "PGP"
-    url       = "https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921"
-    weight    = 50
+  # [[menu.main]]
+  #   identfier = "pgp"
+  #   name      = "PGP"
+  #   url       = "https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921"
+  #   weight    = 50
 
-  [[menu.main]]
-    identfier = "email"
-    name      = "Email"
-    url       = "mailto:info@claudinec.net"
-    weight    = 60
+  # [[menu.main]]
+  #   identfier = "email"
+  #   name      = "Email"
+  #   url       = "mailto:info@claudinec.net"
+  #   weight    = 60
 
