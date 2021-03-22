@@ -1,0 +1,12 @@
+name: www-claudinec-net
+region: sgp
+static_sites:
+- build_command: hugo -d public
+  environment_slug: hugo
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: claudinec/www.claudinec.net
+  name: www-claudinec-net
+  routes:
+  - path: /
