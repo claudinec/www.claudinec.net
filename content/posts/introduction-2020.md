@@ -36,4 +36,3 @@ humanities. I'm planning to continue reflecting on issues related to my study
 and work on this blog, on Twitter at
 [@claudinec](https://twitter.com/claudinec), and on Mastodon at
 [claudinec@fosstodon.org](https://fosstodon.org/@claudinec).
-
