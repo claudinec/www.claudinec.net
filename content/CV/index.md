@@ -1,10 +1,16 @@
 ---
 title: "CV"
-date: 2019-09-18T17:43:52+10:00
+date: 2021-08-13
 draft: false
 ---
 
 ## Experience
+
+### Office Coordinator, Australian Queer Archives
+
+_2021 to present_
+
+Providing office and administration support to AQuA committee and volunteers.
 
 ### Independent Research Consultant
 
@@ -39,16 +45,16 @@ Clients and projects included:
 - WordPress developer and technology consultant, Eugénie Austin, visual artist (July 2014 – July 2015)
 - Drupal developer and technology consultant, Australian Greens Victoria (April – June 2014)
 - Contract Drupal developer, Portable Studios (March 2013 – February 2014)
-    - Centre for Multicultural Youth website
-    - The Wilderness Society – Drupal and mailing list integration
+  - Centre for Multicultural Youth website
+  - The Wilderness Society – Drupal and mailing list integration
 
 ### Technology Coordinator, Australian Student Christian Movement
 
 _2013 to present_
 
-* Development and administration of Drupal [website](https://ascm.org.au/)
-* Facebook, Twitter, and Mailchimp support
-* Administration of database of members and supporters (CivCRM)
+- Development and administration of Drupal [website](https://ascm.org.au/)
+- Facebook, Twitter, and Mailchimp support
+- Administration of database of members and supporters (CivCRM)
 
 ### Data Coordinator (Melbourne and Richmond), Australian Greens Victoria
 
@@ -90,26 +96,27 @@ _February 2016_
 
 _2015 to 2016_
 
-* Presenter, producer and podcast editor on the Spirit Lounge
-* Presenter and producer on The Informer
+- Presenter, producer and podcast editor on the Spirit Lounge
+- Presenter and producer on The Informer
+
 ### Volunteer, Adam Bandt Federal Election Campaign
 
 _2013_
 
 One of hundreds of volunteers working on Adam Bandt's successful re-election campaign for the Federal Division of Melbourne.
 
-* Data entry, NationBuilder administration, data analytics
-* Carlton North field team
-* Carlton South booth captain
+- Data entry, NationBuilder administration, data analytics
+- Carlton North field team
+- Carlton South booth captain
 
 ### Lead Developer, MoatMedia
 
 _2012 – 2013_
 
 - [Hurll Nu-Way](http://www.hnw.com.au/) website
-    - Built a new website using Drupal 7
-    - Developed custom modules for managing and displaying product catalogue
-    - Built a custom responsive theme from agency designs
+  - Built a new website using Drupal 7
+  - Developed custom modules for managing and displaying product catalogue
+  - Built a custom responsive theme from agency designs
 
 ### Web Developer, United Faculty of Theology
 
@@ -130,8 +137,8 @@ _2011 – 2012_
 _2008 – 2012_
 
 - Web developer on the Founders and Survivors project
-    - Built a public website frontend using Drupal
-    - Developed integration between webform submissions and custom research database
+  - Built a public website frontend using Drupal
+  - Developed integration between webform submissions and custom research database
 - Tutor, medical humanities subjects in the Centre for Health and Society
 
 ### Research Assistant, Murdoch Children's Research Institute
