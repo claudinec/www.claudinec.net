@@ -1,12 +1,13 @@
----
-title: "Sr Judith Zoebelein"
-date: 2010-03-24T11:18:52+11:00
-draft: false
-toc: false
-images:
-tags:
-  - findingada
----
+{
+   "date": "2010-03-24T11:18:52+11:00",
+   "draft": false,
+   "images": null,
+   "tags": [
+      "findingada"
+   ],
+   "title": "Sr Judith Zoebelein",
+   "toc": false
+}
 
 _[24 March is Ada Lovelace Day, an international day of blogging to celebrate the achievements of women in technology and science. Find out more at <http://findingada.com/>. This post is less polished than I would like it to be, as I am dashing it off at the end of the work day.]_
 

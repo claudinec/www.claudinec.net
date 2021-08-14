@@ -1,8 +1,8 @@
----
-title: "CV"
-date: 2021-08-13
-draft: false
----
+{
+   "date": "2021-08-13",
+   "draft": false,
+   "title": "CV"
+}
 
 ## Experience
 

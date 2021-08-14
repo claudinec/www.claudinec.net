@@ -1,12 +1,13 @@
----
-title: "DrupalCon Sydney (one week later)"
-date: 2013-02-17T11:15:14+11:00
-draft: false
-toc: false
-images:
-tags:
-  - drupal
----
+{
+   "date": "2013-02-17T11:15:14+11:00",
+   "draft": false,
+   "images": null,
+   "tags": [
+      "drupal"
+   ],
+   "title": "DrupalCon Sydney (one week later)",
+   "toc": false
+}
 
 I'm finally finding some time to reflect briefly on DrupalCon Sydney, which ended a week ago. This was my first DrupalCon, and the first DrupalCon to be held in the southern hemisphere. It was described as a 'floating' DrupalCon (in addition to the two regular northern hemisphere ones); the next big Drupal event in the southern hemisphere will be a return to Wellington, New Zealand, for [DrupalSouth](http://wellington2014.drupalsouth.net.nz/). I have fond memories of DrupalSouth Wellington 2010; it's where I gained a lot of encouragement in developing my Drupal skills, and where I started making connections with key contributors to Drupal outside of Australia.
 

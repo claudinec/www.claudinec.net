@@ -1,14 +1,15 @@
----
-title: "Learning in Public"
-date: 2010-03-14T11:20:39+11:00
-draft: false
-toc: false
-images:
-tags:
-  - academia
-  - digital humanities
-  - drupal
----
+{
+   "date": "2010-03-14T11:20:39+11:00",
+   "draft": false,
+   "images": null,
+   "tags": [
+      "academia",
+      "digital humanities",
+      "drupal"
+   ],
+   "title": "Learning in Public",
+   "toc": false
+}
 
 In [my most recent talk on humanities computing](http://luv.asn.au/2010/03/02), one of the issues that I raised, and that others asked about, was how humanities computing projects are evaluated in a way that can contribute to career advancement, especially for those of us who do not hold traditional research positions but are some kind of hybrid developer/research assistant. The time that I spend developing a database and website (what our end-users see) is time that I don't spend writing scholarly articles (which would be better for my career). This is a conundrum that has been recognised by scholars in humanities computing, but as long as we remain in the academy, we have to adapt to the academy as much as work towards making the academy more adaptable to a new paradigm.
 

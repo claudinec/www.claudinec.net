@@ -1,13 +1,18 @@
-+++
-title = "A new introduction for 2020"
-date = "2020-02-03"
-author = "Claudine Chionh"
-cover = ""
-tags = ["career"]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-+++
+{
+   "author": "Claudine Chionh",
+   "cover": "",
+   "date": "2020-02-03",
+   "description": "",
+   "keywords": [
+      "",
+      ""
+   ],
+   "showFullContent": false,
+   "tags": [
+      "career"
+   ],
+   "title": "A new introduction for 2020"
+}
 
 I'm about to meet a lot of new people in my Information Management
 course and online, so here's a bit about myself, 2020 version.

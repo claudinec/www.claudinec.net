@@ -1,12 +1,13 @@
----
-title: "Sharing the Sharing (LCA2010)"
-date: 2010-01-24T11:29:34+11:00
-draft: false
-toc: false
-images:
-tags:
-  - linux.conf.au
----
+{
+   "date": "2010-01-24T11:29:34+11:00",
+   "draft": false,
+   "images": null,
+   "tags": [
+      "linux.conf.au"
+   ],
+   "title": "Sharing the Sharing (LCA2010)",
+   "toc": false
+}
 
 I have attended linux.conf.au every year since 2007 (though I only attended a miniconference in 2008) and every year have felt some level of disconnection with the intensely technical nature of the conference and of many of the delegates. For the first time, though, I no longer feel uncomfortable about being a misfit at LCA. The conference has changed, and I have changed. Women are still a minority here, but it doesn't feel like a painfully small minority as it did three years ago. The conference is intentionally family-friendly and there have been a few children around, which for me makes the whole conference feel less intense and intimidating. I have also come to accept that it seems to be my fate not to fit in perfectly in any community or culture, or rather, to be able to move between cultures easily.
 
