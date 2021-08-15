@@ -1,7 +1,6 @@
-baseURL: https://proud-desert-02c1ad000.azurestaticapps.net/
+title: Claudine Chionh
 languageCode: en-au
 timeZone: Australia/Melbourne
-title: Claudine Chionh
 theme: github.com/panr/hugo-theme-terminal
 paginate: 5
 params: 
