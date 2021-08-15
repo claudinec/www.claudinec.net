@@ -3,7 +3,7 @@
   "languageCode": "en-au",
   "timeZone": "Australia/Melbourne",
   "title": "Claudine Chionh",
-  "theme": "terminal",
+  "theme": "github.com/panr/hugo-theme-terminal",
   "paginate": 5,
   "params": {
     "author": "Claudine Chionh",
