@@ -1,12 +1,11 @@
-{
-   "date": "2010-02-17T11:22:30+11:00",
-   "draft": false,
-   "tags": [
-      "drupal",
-      "drupal 6"
-   ],
-   "title": "Drupal is my database -- importing 80,000 convicts with Table Wizard and Migrate"
-}
+---
+date: "2010-02-17T11:22:30+11:00"
+draft: false
+tags:
+- drupal
+- drupal 6
+title: Drupal is my database -- importing 80,000 convicts with Table Wizard and Migrate
+---
 
 One of the goals of the [Founders and Survivors](http://www.foundersandsurvivors.org/) project (the one that concerns me the most) is to compile and publish data about the Van Diemen's Land convicts from a variety of sources, and make links or cross-reference between records from different sources that relate to the same individual (or, potentially, the same family). Our [sources](http://www.archives.tas.gov.au/generic/convict_examples) include convict indents carried on the convict ships, conduct records, police gazettes, and registers of births, deaths and marriages. In addition, we have been collecting biographies and family histories submitted by descendants of convicts, which are valuable sources of information about the lives of convicts after they left the penal system.
 

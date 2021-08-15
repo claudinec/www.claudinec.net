@@ -1,13 +1,12 @@
-{
-   "date": "2019-08-27T19:19:30+10:00",
-   "draft": false,
-   "tags": [
-      "archives",
-      "libraries",
-      "glam"
-   ],
-   "title": "Pivot"
-}
+---
+date: "2019-08-27T19:19:30+10:00"
+draft: false
+tags:
+- archives
+- libraries
+- glam
+title: Pivot
+---
 
 [tl;dr](https://en.wiktionary.org/wiki/tl;dr): I have withdrawn from my
 PhD and will start a Master of Information Management in February 2020.
