@@ -2,10 +2,6 @@
 author: Claudine Chionh
 cover: ""
 date: "2020-02-03"
-description: ""
-keywords:
-- ""
-- ""
 showFullContent: false
 tags:
 - career

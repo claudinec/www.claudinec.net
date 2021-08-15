@@ -1,7 +1,7 @@
 ---
 date: "2010-03-14T11:20:39+11:00"
+expiryDate: "2021-08-15"
 draft: false
-images: null
 tags:
 - academia
 - digital humanities

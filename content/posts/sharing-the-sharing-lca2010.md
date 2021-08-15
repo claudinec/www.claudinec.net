@@ -1,7 +1,7 @@
 ---
 date: "2010-01-24T11:29:34+11:00"
+expiryDate: "2021-08-15"
 draft: false
-images: null
 tags:
 - linux.conf.au
 title: Sharing the Sharing (LCA2010)
