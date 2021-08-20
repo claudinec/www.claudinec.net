@@ -10,7 +10,6 @@ params:
   dateformShort: 2 Jan
   dateformNum: 2006-01-02
   dateformNumTime: 2006-01-02 15:04 -0700
-  homeSubtitle: Words, stories, tech
   contentTypeName: posts
   fullWidthTheme: false
   centerTheme: true
