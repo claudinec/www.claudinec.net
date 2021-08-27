@@ -67,4 +67,3 @@ libraries and archives -- feel free to
 [email](mailto:info@claudinec.net) me.
 
 [^1]: Really, I was a nerd. My first appearance in a national newspaper was a story about my collection of over a hundred books at the age of six. One of my childhood pastimes was cataloguing my personal collection and pasting checkout slips in the back of books.
-
