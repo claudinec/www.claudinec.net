@@ -6,7 +6,9 @@ author: Claudine Chionh
 date: '2021-08-27'
 lastmod: '2021-08-27'
 draft: false
-tags: [covid-19, userscript]
+tags:
+  - covid-19
+  - userscript
 categories: []
 ---
 
