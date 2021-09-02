@@ -7,6 +7,7 @@ enableGitInfo: true
 frontmatter:
   date:
   - :filename
+  - :default
   lastmod:
   - lastmod
   - :git
