@@ -10,5 +10,8 @@
         "editor.lineNumbers": "off",
         "editor.quickSuggestions": false,
         "editor.minimap.enabled": false
-    }
+    },
+    "frontMatter.content.autoUpdateDate": true,
+    "frontMatter.taxonomy.alignFilename": true,
+    "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd"
 }
