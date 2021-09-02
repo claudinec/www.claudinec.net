@@ -11,11 +11,5 @@
         "editor.quickSuggestions": false,
         "editor.minimap.enabled": false
     },
-    "editor.tabSize": 2,
-    "frontMatter.content.autoUpdateDate": true,
-    "frontMatter.taxonomy.alignFilename": true,
-    "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd",
-    "frontMatter.content.folders": [
-        "content"
-    ]
+    "editor.tabSize": 2
 }
