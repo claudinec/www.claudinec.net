@@ -3,6 +3,14 @@ title: Claudine Chionh
 languageCode: en-au
 timeZone: Australia/Melbourne
 theme: github.com/panr/hugo-theme-terminal
+enableGitInfo: true
+frontmatter:
+  date:
+  - :filename
+  lastmod:
+  - lastmod
+  - :git
+  - :default
 paginate: 5
 params: 
   author: Claudine Chionh
