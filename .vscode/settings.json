@@ -1,15 +1,6 @@
 {
-    "markdownlint.config": {
-        "MD036": false
-    },
-    "[markdown]": {
-        "editor.fontSize": 14,
-        "editor.lineHeight": 26,
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 72,
-        "editor.lineNumbers": "off",
-        "editor.quickSuggestions": false,
-        "editor.minimap.enabled": false
-    },
-    "editor.tabSize": 2
+  "markdownlint.config": {
+    "MD036": false
+  },
+  "editor.tabSize": 2
 }
