@@ -2,7 +2,7 @@
 title: Customised Covid-19 alerts
 description: Moderating my anxiety with customised Covid-19 alerts
 author: Claudine Chionh
-draft: true
+draft: false
 images:
   - /images/2021-09-03-pushcut-exposure-alert.jpg
   - /images/2021-09-02-pushcut-whattimedan.jpg
