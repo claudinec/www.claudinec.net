@@ -1,5 +1,6 @@
 baseURL: https://www.claudinec.net/
 title: Claudine Chionh
+description: Claudine's GLAMR/tech blog
 languageCode: en-au
 timeZone: Australia/Melbourne
 theme: github.com/panr/hugo-theme-terminal
@@ -27,6 +28,9 @@ params:
   logo: 
     logoText: Claudine Chionh
     logoHomeLink: /
+  twitter:
+    creator: claudinec
+    site: claudinec
 menu: 
   main:
   - identifier: about
