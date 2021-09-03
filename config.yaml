@@ -4,6 +4,7 @@ languageCode: en-au
 timeZone: Australia/Melbourne
 theme: github.com/panr/hugo-theme-terminal
 enableGitInfo: true
+copyright: © Claudine Chionh (CC-BY-SA-4.0)
 frontmatter:
   date:
   - :filename
