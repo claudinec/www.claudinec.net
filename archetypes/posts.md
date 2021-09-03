@@ -4,5 +4,4 @@ description:
 author: Claudine Chionh
 draft: true
 tags: []
-categories: []
 ---
