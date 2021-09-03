@@ -6,10 +6,11 @@ author: Claudine Chionh
 date: '2021-08-27'
 lastmod: '2021-08-27'
 draft: false
+images:
+  - /images/2021-08-27-exposure-sites.png
 tags:
   - covid-19
   - userscript
-categories: []
 ---
 
 ![table of exposure sites with rows highlighted in different background colours](/images/2021-08-27-exposure-sites.png)
