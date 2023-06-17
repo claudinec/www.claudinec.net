@@ -12,11 +12,11 @@ main:
   url: https://github.com/claudinec
   weight: 20
 - identifier: mastodonAusSocial
-  name: @Aus.Social
+  name: Aus.Social
   url: https://aus.social/@claudinec
   weight: 21
 - identifier: mastodonFosstodon
-  name: @Fosstodon
+  name: Fosstodon
   url: https://fosstodon.org/@claudinec
   weight: 22
 - identifier: linkedin
