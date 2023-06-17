@@ -7,10 +7,6 @@ main:
   name: CV
   url: /cv
   weight: 10
-- identifier: github
-  name: GitHub
-  url: https://github.com/claudinec
-  weight: 20
 - identifier: mastodonAusSocial
   name: Aus.Social
   url: https://aus.social/@claudinec
@@ -19,10 +15,6 @@ main:
   name: Fosstodon
   url: https://fosstodon.org/@claudinec
   weight: 22
-- identifier: linkedin
-  name: LinkedIn
-  url: https://www.linkedin.com/in/claudinec/
-  weight: 30
 - identifier: pgp
   name: PGP
   url: https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921
