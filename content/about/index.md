@@ -1,12 +1,12 @@
 ---
-date: "2021-08-13"
+date: "2023-06-17"
 draft: false
 title: About
 ---
 
 ## Now
 
-Master of Information Management student at RMIT University. Office coordinator, [Australian Queer Archives](https://queerarchives.org.au/). Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au).
+Office coordinator, [Australian Queer Archives](https://queerarchives.org.au/). Board of Directors, [intertwine](https://intertwine.net.au).
 
 ## Previously
 
