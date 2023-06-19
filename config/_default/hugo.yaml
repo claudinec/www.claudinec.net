@@ -7,3 +7,4 @@ enableGitInfo: true
 copyright: © Claudine Chionh (CC-BY-SA-4.0)
 paginate: 5
 cleanDestinationDir: true
+buildExpired: false

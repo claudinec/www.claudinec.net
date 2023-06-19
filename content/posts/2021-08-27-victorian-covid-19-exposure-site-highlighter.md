@@ -2,7 +2,6 @@
 title: Victorian Covid-19 exposure site highlighter
 slug: victorian-covid-19-exposure-site-highlighter
 description: Run a highlighter of doom over the suburbs near and dear to you
-author: Claudine Chionh
 date: '2021-08-27'
 lastmod: '2021-08-27'
 draft: false
