@@ -1,6 +1,7 @@
 ---
 title: Customised Covid-19 alerts
 description: Moderating my anxiety with customised Covid-19 alerts
+slug: customised-covid-19-alerts
 draft: false
 images:
   - /images/2021-09-03-pushcut-exposure-alert.jpg
@@ -13,7 +14,7 @@ tags:
   - raspberrypi
 ---
 
-Since my [last post](/posts/victorian-covid-19-exposure-site-highlighter), the number of [Victorian Covid-19 exposure sites](https://www.coronavirus.vic.gov.au/exposure-sites) has climbed to over 1000. It isn't healthy for me to park myself on that page and constantly refresh it, or to constantly watch Twitter for case updates and press conferences. I've built a couple more small tools to send me alerts when they're relevant, so I don't need to have those browser tabs of doom open all the time. (That doesn't mean I don't sometimes spend hours on Twitter anyway, but at least I know I can tear myself away without missing important alerts.) Building tools to tune the cacophony of information has also done a little to focus and calm my mind in this distressing period.
+Since my [last post](/posts/victorian-covid-19-exposure-site-highlighter/), the number of [Victorian Covid-19 exposure sites](https://www.coronavirus.vic.gov.au/exposure-sites) has climbed to over 1000. It isn't healthy for me to park myself on that page and constantly refresh it, or to constantly watch Twitter for case updates and press conferences. I've built a couple more small tools to send me alerts when they're relevant, so I don't need to have those browser tabs of doom open all the time. (That doesn't mean I don't sometimes spend hours on Twitter anyway, but at least I know I can tear myself away without missing important alerts.) Building tools to tune the cacophony of information has also done a little to focus and calm my mind in this distressing period.
 
 This is a system that works for me. It might not suit your needs or your technology setup, but if you want to build your own Covid-19 alert system, this might give you some ideas.
 
