@@ -1,21 +1,25 @@
 main:
-  - identifier: about
-    name: About
-    url: /about
-    weight: 5
-  - identifier: cv
-    name: CV
-    url: /cv
-    weight: 10
-  - identifier: mastodon
-    name: Aus.Social
-    url: https://aus.social/@claudinec
-    weight: 21
-  - identifier: pgp
-    name: PGP
-    url: https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921
-    weight: 50
-  - identifier: email
-    name: Email
-    url: mailto:info@claudinec.net
-    weight: 60
+    - identifier: about
+      name: About
+      url: /about
+      weight: 5
+    - identifier: cv
+      name: CV
+      url: /cv
+      weight: 10
+    - identifier: mastodon
+      name: Aus.Social
+      url: https://aus.social/@claudinec
+      weight: 21
+    - identifier: github
+      name: GitHub
+      url: https://github.com/claudinec
+      weight: 40
+    - identifier: pgp
+      name: PGP
+      url: https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921
+      weight: 50
+    - identifier: email
+      name: Email
+      url: mailto:info@claudinec.net
+      weight: 60
