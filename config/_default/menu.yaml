@@ -15,9 +15,9 @@ main:
       name: GitHub
       url: https://github.com/claudinec
       weight: 40
-    - identifier: pgp
-      name: PGP
-      url: https://keys.openpgp.org/vks/v1/by-fingerprint/8E4D0A0773D49C4F3760E94EA75C2F000E3E5921
+    - identifier: keyoxide
+      name: Keyoxide
+      url: https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059
       weight: 50
     - identifier: email
       name: Email
