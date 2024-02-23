@@ -1,9 +1,20 @@
 author: Claudine Chionh
 dateFormat: 2 Jan 2006
 contentTypeName: posts
-fullWidthTheme: false
-centerTheme: true
-themeColor: blue
-logo:
-    logoText: Claudine Chionh
-    logoHomeLink: /
+
+#### PaperMod ####
+# homeInfoParams:
+#     Title: Hi there wave
+#     Content: Can be Info, links, about...
+profileMode:
+    enabled: true
+    buttons:
+        - name: "Posts"
+          url: "/posts"
+socialIcons:
+    - name: "github"
+      url: "https://github.com/claudinec"
+    - name: "mastodon"
+      url: "https://aus.social/@claudinec"
+    - name: "pgp"
+      url: "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"
