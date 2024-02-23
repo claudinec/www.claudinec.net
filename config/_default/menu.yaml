@@ -1,0 +1,4 @@
+main:
+    - identifier: posts
+      name: Posts
+      url: /posts
