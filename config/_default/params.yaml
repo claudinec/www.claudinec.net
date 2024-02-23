@@ -2,10 +2,6 @@ author: Claudine Chionh
 dateFormat: 2 Jan 2006
 contentTypeName: posts
 
-#### PaperMod ####
-# homeInfoParams:
-#     Title: Hi there wave
-#     Content: Can be Info, links, about...
 profileMode:
     enabled: true
     buttons:
