@@ -18,7 +18,7 @@ eventually realised that working solely with science, technology, and
 data, while motivated by good, was not feeding my literary and
 humanistic background, so I moved to a data management and web
 development role with a medical historian and discovered the new field
-of digital humanities. After a few years I found myself tired of the 
+of digital humanities. After a few years I found myself tired of the
 challenges of working in a technical ('professional') role in an
 academic environment and moved to technology consulting, primarily
 working in web development, data management, and digital strategy for
@@ -29,7 +29,8 @@ any career change to be a panacea, I'm wagering the next few years or
 decades of my life on the hope that the GLAMR field in 2020 will provide
 the intellectual stimulation that will both draw on my technical
 experience and feed my interests in literature, history, and the
-humanities. I'm planning to continue reflecting on issues related to my study 
-and work on this blog, on Twitter at
-[@claudinec](https://twitter.com/claudinec), and on Mastodon at
-[claudinec@fosstodon.org](https://fosstodon.org/@claudinec).
+humanities. I'm planning to continue reflecting on issues related to my study
+and work on this blog and on Mastodon at
+[claudinec@aus.social](https://aus.social/@claudinec).[^social]
+
+[^social]: Removed Twitter and changed Mastodon server [edited 2024-02-23].
