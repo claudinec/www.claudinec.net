@@ -1,9 +1,10 @@
-author: Claudine Chionh
-dateFormat: 2 Jan 2006
-contentTypeName: posts
+author: "Claudine Chionh"
+dateFormat: "2 Jan 2006"
+contentTypeName: "posts"
 
-profileMode:
-    enabled: true
+homeInfoParams:
+    title: "Claudine Chionh"
+    content: "Newbie archivist and recovering webdev"
     buttons:
         - name: "Posts"
           url: "/posts"

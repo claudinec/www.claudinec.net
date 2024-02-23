@@ -1,9 +1,8 @@
-title: Claudine Chionh
-description: Claudine's GLAMR/tech blog
+title: claudinec.net
 languageCode: en-au
 timeZone: Australia/Melbourne
 enableGitInfo: true
-copyright: © Claudine Chionh (CC-BY-SA-4.0)
+copyright: © Claudine Chionh (CC-BY-SA-4.0).
 paginate: 5
 cleanDestinationDir: true
 buildExpired: false
