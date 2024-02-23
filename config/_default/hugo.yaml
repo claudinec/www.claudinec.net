@@ -2,9 +2,12 @@ title: Claudine Chionh
 description: Claudine's GLAMR/tech blog
 languageCode: en-au
 timeZone: Australia/Melbourne
-theme: github.com/panr/hugo-theme-terminal
 enableGitInfo: true
 copyright: © Claudine Chionh (CC-BY-SA-4.0)
 paginate: 5
 cleanDestinationDir: true
 buildExpired: false
+module:
+    imports:
+        - path: github.com/adityatelange/hugo-PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
