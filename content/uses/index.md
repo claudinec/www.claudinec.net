@@ -1,5 +1,5 @@
 ---
-title: How I compute
+title: What I use
 ---
 
 ## General principles
