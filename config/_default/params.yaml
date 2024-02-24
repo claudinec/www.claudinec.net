@@ -4,6 +4,9 @@ contentTypeName: "posts"
 defaultTheme: "auto"
 label:
     icon: "/memoji-128x128.png"
+assets:
+    favicon: "memoji-128x128.png"
+    apple_touch_icon: "memoji-128x128.png"
 
 homeInfoParams:
     title: "Claudine Chionh"
