@@ -2,6 +2,8 @@ author: "Claudine Chionh"
 dateFormat: "2 Jan 2006"
 contentTypeName: "posts"
 defaultTheme: "auto"
+label:
+    icon: "/memoji-128x128.png"
 
 homeInfoParams:
     title: "Claudine Chionh"
