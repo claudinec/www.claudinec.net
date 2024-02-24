@@ -1,6 +1,7 @@
 author: "Claudine Chionh"
 dateFormat: "2 Jan 2006"
 contentTypeName: "posts"
+defaultTheme: "auto"
 
 homeInfoParams:
     title: "Claudine Chionh"
