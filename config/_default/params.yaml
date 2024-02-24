@@ -1,12 +1,17 @@
-author: Claudine Chionh
-dateform: 2 Jan 2006
-dateformShort: 2 Jan
-dateformNum: 2006-01-02
-dateformNumTime: 2006-01-02 15:04 -0700
-contentTypeName: posts
-fullWidthTheme: false
-centerTheme: true
-themeColor: blue
-logo: 
-  logoText: Claudine Chionh
-  logoHomeLink: /
+author: "Claudine Chionh"
+dateFormat: "2 Jan 2006"
+contentTypeName: "posts"
+
+homeInfoParams:
+    title: "Claudine Chionh"
+    content: "Newbie archivist and recovering webdev"
+    buttons:
+        - name: "Posts"
+          url: "/posts"
+socialIcons:
+    - name: "github"
+      url: "https://github.com/claudinec"
+    - name: "mastodon"
+      url: "https://aus.social/@claudinec"
+    - name: "pgp"
+      url: "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"

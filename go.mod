@@ -1,5 +1,5 @@
 module github.com/claudinec/www.claudinec.net
 
-go 1.17
+go 1.22
 
-require github.com/panr/hugo-theme-terminal v0.0.0-20210512213322-ca1cc0c3915e // indirect
+require github.com/adityatelange/hugo-PaperMod v0.0.0-20240210101324-944ddc3c7e75 // indirect
