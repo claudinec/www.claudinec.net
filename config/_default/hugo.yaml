@@ -7,6 +7,7 @@ paginate: 5
 cleanDestinationDir: true
 buildExpired: false
 capitalizeListTitles: false
+enableEmoji: true
 module:
     imports:
         - path: github.com/adityatelange/hugo-PaperMod

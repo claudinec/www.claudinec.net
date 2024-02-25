@@ -1,0 +1,15 @@
+<!-- h-card spec: https://microformats.org/wiki/h-card -->
+<div id="h-card" class="h-card">
+    <p>
+        {{ with .Get "u-uid" }}
+            <a class="u-url u-uid" href="{{ . }}">
+        {{ end }}
+        <span class="p-name">{{ .Get "p-name" }}</span>
+        {{ if .Get "u-uid" }}
+            </a>
+        {{ end }}
+        {{ with .Get "u-pronoun" }}
+            (<a class="u-pronoun" href="https://pronouns.within.lgbt/{{ . }}">{{ . }}</a>)
+        {{ end }}
+    </p>
+</div>
