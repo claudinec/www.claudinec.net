@@ -2,6 +2,9 @@ main:
     - identifier: posts
       name: Posts
       url: /posts
+    - identifier: about
+      name: About
+      url: /about
     - identifier: uses
       name: Uses
       url: /uses

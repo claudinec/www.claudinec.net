@@ -166,6 +166,9 @@ _1998 – 2003_
 
 ## Education
 
+Graduate Diploma in Information Management  
+RMIT University, 2020 – 2022
+
 Graduate Diploma in Theology and Graduate Diploma in Church History  
 _University of Divinity_, 2007 – 2012
 
