@@ -9,11 +9,7 @@ tags:
 
 ## How to refer to me
 
-<div id="h-card" class="h-card">
-<p>Hi, I'm <span class="p-name"><span class="p-given-name">Claudine</span> <span class="p-family-name">Chionh</span></span>.
-My pronouns are <a class="u-pronoun" href="https://pronouns.within.lgbt/she/her">she/her/hers</a>.
-My family name is pronounced (from the Hokkien) <a href="https://en.wiktionary.org/wiki/蔣#Pronunciation_1">/t͡ɕiɔŋ⁵³/</a> ("Chiong") but I'll answer to anything that comes close. "Chionh" is a bad romanisation of <a href="https://en.wikipedia.org/wiki/Ji%C7%8Eng_(surname)">Jiǎng (蒋)</a> – family lore says that the misspelling was introduced by a British colonial clerk.
-</p></div>
+Hi, I'm Claudine Chionh. My pronouns are [she/her/hers](https://pronouns.within.lgbt/she/her). My family name is pronounced (from the Hokkien) [/t͡ɕiɔŋ⁵³/](https://en.wiktionary.org/wiki/蔣#Pronunciation_1) ("Chiong") but I'll answer to anything that comes close. "Chionh" is a bad romanisation of [Jiǎng (蒋)](https://en.wikipedia.org/wiki/Ji%C7%8Eng_(surname)) – family lore says that the misspelling was introduced by a British colonial clerk.
 
 ## About me
 
