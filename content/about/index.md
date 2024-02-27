@@ -1,7 +1,7 @@
 ---
 date: "2023-06-17"
-lastmod: "2024-02-25"
-publishdate: "2024-02-25"
+lastmod: "2024-02-26"
+publishdate: "2024-02-26"
 draft: false
 title: About
 tags:
