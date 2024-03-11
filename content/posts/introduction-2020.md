@@ -3,6 +3,7 @@ date: "2020-02-03"
 lastmod: "2024-02-23"
 showFullContent: false
 tags:
+- ausglamr
 - career
 title: A new introduction for 2020
 ---
