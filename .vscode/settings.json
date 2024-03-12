@@ -1,6 +1,8 @@
 {
     "markdownlint.config": {
+        "MD034": false,
         "MD036": false
     },
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "[markdown]": {}
 }

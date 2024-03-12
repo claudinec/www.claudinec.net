@@ -1,0 +1,17 @@
+main:
+    - identifier: posts
+      name: Posts
+      url: /posts
+      weight: 10
+    - identifier: resources
+      name: Resources
+      url: /resources
+      weight: 15
+    - identifier: about
+      name: About
+      url: /about
+      weight: 20
+    - identifier: uses
+      name: Uses
+      url: /uses
+      weight: 30
