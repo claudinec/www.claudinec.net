@@ -1,7 +1,7 @@
 ---
 title: The spring/summer edition
 date: 2024-03-17
-draft: true
+draft: false
 tags: [hugo, indieweb]
 type: posts
 ---
