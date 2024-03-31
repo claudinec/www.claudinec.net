@@ -3,8 +3,8 @@ title: "Coffee decision tree"
 description: What coffee should I drink? Plus a digression into plain-text diagrams
 author: Claudine Chionh
 date: 2024-03-31T12:09:55+11:00
-publishDate:
-draft: true
+publishDate: 2024-03-31
+draft: false
 tags: ["coffee", "diagrams"]
 ---
 
