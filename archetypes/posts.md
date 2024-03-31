@@ -1,5 +1,5 @@
 ---
-title: "{{name}}"
+title: "{{ replace .Name "-" " " | title }}"
 description:
 author: Claudine Chionh
 date: {{ .Date }}
