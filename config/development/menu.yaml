@@ -11,6 +11,10 @@ main:
       name: About
       url: /about
       weight: 20
+    - identifier: reading
+      name: Reading
+      url: /reading
+      weight: 21
     - identifier: uses
       name: Uses
       url: /uses
