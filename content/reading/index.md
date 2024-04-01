@@ -11,14 +11,14 @@ tags: [books, reading]
 
 ## Currently reading
 
-* {{< book title="Saving Time" author="Jenny Odell" >}}
+* {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
 
 ## Read in 2024
 
 * Fiction
-    * {{< book title="The Atrocity Archives" author="Charles Stross" >}}
-    * {{< book title="The Jennifer Morgue" author="Charles Stross" >}}
-    * {{< book title="The Fuller Memorandum" author="Charles Stross" >}}
+    * {{< book title="The Atrocity Archives" author="Charles Stross" year=2003 >}}
+    * {{< book title="The Jennifer Morgue" author="Charles Stross" year=2007 >}}
+    * {{< book title="The Fuller Memorandum" author="Charles Stross" year=2010 >}}
 * Non-fiction
-    * {{< book title="Doppelganger" author="Naomi Klein" year=2022 >}}
+    * {{< book title="Doppelganger" author="Naomi Klein" year=2023 >}}
     * {{< book title="How to do Nothing" author="Jenny Odell" year=2019 >}}
