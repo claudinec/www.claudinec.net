@@ -4,14 +4,17 @@ description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
 publishDate:
-lastmod:
+lastmod: 2024-04-07
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
-* {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
+* Fiction
+    * {{< book title="The Apocalypse Codex" author="Charles Stross" year=2012 >}}
+* Non-fiction
+    * {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
 
 ## Read in 2024
 
