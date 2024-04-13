@@ -1,6 +1,7 @@
 .DS_Store
 public/
 resources/
+robots.txt
 .Rproj.user
 *.lock
 *.swp
