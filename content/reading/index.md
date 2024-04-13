@@ -3,7 +3,7 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate:
+publishDate: 2024-04-07
 lastmod: 2024-04-07
 draft: false
 tags: [books, reading]
