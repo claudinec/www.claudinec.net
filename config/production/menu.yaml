@@ -1,17 +1,17 @@
 main:
     - identifier: posts
       name: Posts
-      url: /posts
+      pageRef: /posts
       weight: 10
     - identifier: about
       name: About
-      url: /about
+      pageRef: /about
       weight: 20
     - identifier: reading
       name: Reading
-      url: /reading
+      pageRef: /reading
       weight: 21
     - identifier: uses
       name: Uses
-      url: /uses
+      pageRef: /uses
       weight: 30
