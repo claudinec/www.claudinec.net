@@ -3,16 +3,15 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-04-19
-lastmod: 2024-04-19
+publishDate: 2024-04-26
+lastmod: 2024-04-26
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
-* Non-fiction
-    * {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
+Time for another book or two!
 
 ## Read in 2024
 
@@ -25,3 +24,4 @@ tags: [books, reading]
 * Non-fiction
     * {{< book title="Doppelganger" author="Naomi Klein" year=2023 >}}
     * {{< book title="How to do Nothing" author="Jenny Odell" year=2019 >}}
+    * {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
