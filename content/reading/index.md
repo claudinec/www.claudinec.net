@@ -3,15 +3,16 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-04-26
-lastmod: 2024-04-26
+publishDate: 2024-04-28
+lastmod: 2024-04-28
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
-Time for another book or two!
+* Non-fiction
+    * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 >}}
 
 ## Read in 2024
 
