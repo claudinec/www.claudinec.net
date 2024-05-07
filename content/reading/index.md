@@ -3,14 +3,16 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-04-28
-lastmod: 2024-04-28
+publishDate: 2024-05-08
+lastmod: 2024-05-08
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
+* Fiction
+    * {{< book title="The Annihilation Score" author="Charles Stross" year=2015 >}}
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 >}}
 
