@@ -24,7 +24,7 @@ socialIcons:
     - name: "pgp"
       url: "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"
 editPost:
-    url: "mailto:~claudinec/public-inbox@lists.sr.ht?subject="
-    text: "Email comments (public inbox)"
+    url: "mailto:hello+www@claudinec.net?subject="
+    text: "Email me about this page"
     appendFilePath: true
 
