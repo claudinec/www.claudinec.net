@@ -1,8 +1,4 @@
 main:
-    - identifier: hello
-      name: Hello
-      pageRef: /hello
-      weight: 5
     - identifier: posts
       name: Posts
       pageRef: /posts
