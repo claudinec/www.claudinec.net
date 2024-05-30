@@ -13,6 +13,7 @@ tags: [books, reading]
 
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 >}}
+    * {{< book title="Slow Productivity" author="Cal Newport" year=2024 >}}
 
 ## Read in 2024
 
@@ -28,3 +29,6 @@ tags: [books, reading]
     * {{< book title="Doppelganger" author="Naomi Klein" year=2023 >}}
     * {{< book title="How to do Nothing" author="Jenny Odell" year=2019 >}}
     * {{< book title="Saving Time" author="Jenny Odell" year=2023 >}}
+
+<!-- :vim set textwidth=0: -->
+
