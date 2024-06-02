@@ -3,14 +3,16 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-05-30
-lastmod: 2024-05-30
+publishDate: 2024-06-03
+lastmod: 2024-06-03
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
+* Fiction
+    * {{< book title="Babel" author="R. F. Kuang" year=2022 >}}
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 >}}
     * {{< book title="Slow Productivity" author="Cal Newport" year=2024 >}}
