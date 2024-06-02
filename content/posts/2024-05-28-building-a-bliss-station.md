@@ -5,6 +5,7 @@ description: Disconnect to reconnect
 author: Claudine Chionh
 date: 2024-05-28
 publishdate: 2024-05-31
+lastmod: 2024-06-03
 draft: false
 tags: [indieweb-carnival, writing, analogue, creativity]
 ---
@@ -26,4 +27,9 @@ I started trying to make a habit of disconnecting by setting personal rules for 
 A few days ago I [posted](/posts/2024-05-25-a-week-off) a photo of two small synthesisers on my desk. I have not settled on a musical bliss station yet. I got the little Volca partly with the idea that I might make music on my long commute to or from work but I haven't got into the habit of adding it to my work bag yet. I have music software on my iPad and Mac but it's so easy to get overwhelmed by all the possibilities offered by software. Taking my reading and writing analogue-first has been great for my wellbeing. Maybe I will benefit from embracing these constraints in music as well.
 
 *This post was written for the May 2024 [IndieWeb Carnival: Creative environments](https://hamatti.org/posts/indie-web-carnival-may-2024-creative-environments/). Thanks @hamatti for hosting this month's Carnival.*
+
+Responses:
+
+* [:mammoth: @hamatti](https://mastodon.world/@hamatti/112535866902453404)
+* [:circus_tent: roundup post](https://hamatti.org/posts/indieweb-carnival-may-round-up-post-creative-environments/)
 
