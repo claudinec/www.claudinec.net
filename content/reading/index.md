@@ -12,11 +12,13 @@ tags: [books, reading]
 ## Currently reading
 
 * Fiction
-* {{< book title="The Delirium Brief" author="Charles Stross" year=2017 >}}
+    * {{< book title="The Delirium Brief" author="Charles Stross" year=2017 >}}
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 >}}
 
 ## Read in 2024
+
+I'm binge-reading Charlie Stross's *Laundry Files* series – here's the [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) for my reference.
 
 * Fiction
     * {{< book title="The Atrocity Archives" author="Charles Stross" year=2003 >}}
