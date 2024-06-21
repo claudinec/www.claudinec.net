@@ -1,7 +1,7 @@
 date:
 - publishdate
-- date
 - lastmod
+- date
 - :filename
 - :default
 lastmod:

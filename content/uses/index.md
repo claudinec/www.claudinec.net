@@ -33,7 +33,7 @@ General principles: Unix-like servers, personal devices from the Appleverse. Thi
     - Microsoft Office to collaborate with work colleagues
 - iOS/iPadOS
     - automation superpowers: [Shortcuts](https://support.apple.com/en-au/guide/shortcuts/welcome/ios), [Pushcut](https://pushcut.io/), [Scriptable](https://scriptable.app/), [Drafts](https://getdrafts.com/)
-    - dev tools: [Textastic](https://www.textasticapp.com/), [Runestone](https://runestone.app/), [Working Copy](https://workingcopy.app/), [Secure Shellfish](https://secureshellfish.app/), [a-Shell](https://holzschu.github.io/a-Shell_iOS/)
+    - dev tools: [Textastic](https://www.textasticapp.com/), [Runestone](https://runestone.app/), [Working Copy](https://workingcopy.app/), [Secure ShellFish](https://secureshellfish.app/), [a-Shell](https://holzschu.github.io/a-Shell_iOS/)
 - fun/downtime (iOS/macOS)
     - [NetNewsWire](https://netnewswire.com/) [feed](https://aboutfeeds.com/) reader (self-curated chronological feeds[^feedrant])
     - [Overcast](https://overcast.fm/) podcast player

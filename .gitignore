@@ -1,6 +1,8 @@
 .DS_Store
+abuseipdb-verification.html
 public/
 resources/
+robots.txt
 .Rproj.user
 *.lock
 *.swp

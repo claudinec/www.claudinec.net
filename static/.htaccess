@@ -1,2 +1,6 @@
+# 404 page provided by theme
 ErrorDocument 404 /404.html
 
+# block requests claiming "binance.com" in referer
+RewriteCond %{HTTP_REFERER} "=binance.com"
+RewriteRule "^" "-" [F]

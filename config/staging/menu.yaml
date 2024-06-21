@@ -1,0 +1,17 @@
+main:
+    - identifier: posts
+      name: Posts
+      pageRef: /posts
+      weight: 10
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 20
+    - identifier: reading
+      name: Reading
+      pageRef: /reading
+      weight: 21
+    - identifier: uses
+      name: Uses
+      pageRef: /uses
+      weight: 30
