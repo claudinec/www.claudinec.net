@@ -1,12 +1,17 @@
 ---
 date: "2019-03-18T21:53:35+11:00"
+lastmod: "2019-03-18T21:53:35+11:00"
 draft: false
 tags:
-- atom
+- atom-editor
 - pyladies
 - python
 title: The IDEs of March -- Demonstrating Atom for PyLadies Melbourne
+aliases:
+- ides-of-march
 ---
+
+<!-- https://web.archive.org/web/20190317220234/https://atom.io/ -->
 
 I have recently started attending [PyLadies Melbourne](http://melbourne.pyladies.com/) as it's a welcoming community and I have been spending a bit more time with Python. The March meetup was a comparison of various editors and IDEs (Integrated Development Environments) and I volunteered to demonstrate [Atom](https://atom.io/). Although I haven't spent a lot of time with Python yet, I have been using Atom for a few years and offered to talk about it as no one else had volunteered.
 
