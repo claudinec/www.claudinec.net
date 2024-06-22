@@ -40,3 +40,4 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :hut: [Sourcehut](https://sr.ht/~claudinec/)
 * :octopus: [GitHub](https://github.com/claudinec)
 * :musical_note: [Last.fm](https://www.last.fm/user/claudinec)
+* :clapper: [Letterboxd](https://letterboxd.com/onefewercar/)
