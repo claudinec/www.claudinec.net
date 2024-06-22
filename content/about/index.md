@@ -1,15 +1,11 @@
 ---
 date: "2023-06-17"
-lastmod: "2024-02-27"
-publishdate: "2024-02-27"
+lastmod: 2024-06-22
+publishdate: 2024-06-22
 draft: false
 title: About
 tags:
 ---
-
-## How to refer to me
-
-Hi, I'm Claudine Chionh. My pronouns are [she/her/hers](https://pronouns.within.lgbt/she/her). My family name is pronounced (from the Hokkien) [/t͡ɕiɔŋ⁵³/](https://en.wiktionary.org/wiki/蔣#Pronunciation_1) ("Chiong") but I'll answer to anything that comes close. "Chionh" is a bad romanisation of [Jiǎng (蒋)](https://en.wikipedia.org/wiki/Ji%C7%8Eng_(surname)) – family lore says that the misspelling was introduced by a British colonial clerk.
 
 ## About me
 

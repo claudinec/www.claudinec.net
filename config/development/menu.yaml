@@ -1,16 +1,12 @@
 main:
-    - identifier: posts
-      name: Posts
-      pageRef: /posts
+    - identifier: hello
+      name: Hello
+      pageRef: /hello
       weight: 10
-    - identifier: resources
-      name: Resources
-      pageRef: /resources
-      weight: 15
     - identifier: about
       name: About
       pageRef: /about
-      weight: 20
+      weight: 11
     - identifier: reading
       name: Reading
       pageRef: /reading
@@ -18,4 +14,12 @@ main:
     - identifier: uses
       name: Uses
       pageRef: /uses
+      weight: 22
+    - identifier: tags
+      name: Tags
+      pageRef: /tags
       weight: 30
+    - identifier: posts
+      name: Posts
+      pageRef: /posts
+      weight: 40
