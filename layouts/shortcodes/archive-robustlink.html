@@ -1,0 +1,8 @@
+<!-- api/spec: https://robustlinks.mementoweb.org/api-docs/ -->
+<!-- args: text originalurl versionurl versiondate -->
+<a href="{{ .Get "originalurl" }}"
+  data-versionurl="{{ .Get "versionurl" }}"
+  data-versiondate="{{ .Get "versiondate" }}">{{ .Get "text" }}</a>
+<em>(<a href="{{ .Get "versionurl" }}"
+  data-originalurl="{{ .Get "originalurl" }}"
+  data-versiondate="{{ .Get "versiondate" }}">🗄️ Version archived on {{ .Get "versiondate" }}</a>)</em>
