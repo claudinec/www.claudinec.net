@@ -2,7 +2,7 @@
 title: Resisting linkrot
 description: Web archiving starts at home
 author: Claudine Chionh
-draft: true
+draft: false
 date: 2024-06-22
 tags:
 - linkrot
