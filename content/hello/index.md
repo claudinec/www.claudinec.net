@@ -3,6 +3,10 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
+tags:
+- hello
+- contact
+- elsewhere
 aliases:
 - contact
 - elsewhere
