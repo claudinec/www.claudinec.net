@@ -3,6 +3,6 @@
 <a href="{{ .Get "originalurl" }}"
   data-versionurl="{{ .Get "versionurl" }}"
   data-versiondate="{{ .Get "versiondate" }}">{{ .Get "text" }}</a>
-<em>(<a href="{{ .Get "versionurl" }}"
+<small><em>(<a href="{{ .Get "versionurl" }}"
   data-originalurl="{{ .Get "originalurl" }}"
-  data-versiondate="{{ .Get "versiondate" }}">🗄️ Version archived on {{ .Get "versiondate" }}</a>)</em>
+  data-versiondate="{{ .Get "versiondate" }}">🗄️ Version archived on {{ .Get "versiondate" }}</a>)</em></small>

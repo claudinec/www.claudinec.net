@@ -11,9 +11,9 @@ aliases:
 - ides-of-march
 ---
 
-<!-- https://web.archive.org/web/20190317220234/https://atom.io/ -->
+{{< archive-disclaimer note="Atom was sunsetted in 2022." >}}
 
-I have recently started attending [PyLadies Melbourne](http://melbourne.pyladies.com/) as it's a welcoming community and I have been spending a bit more time with Python. The March meetup was a comparison of various editors and IDEs (Integrated Development Environments) and I volunteered to demonstrate [Atom](https://atom.io/). Although I haven't spent a lot of time with Python yet, I have been using Atom for a few years and offered to talk about it as no one else had volunteered.
+I have recently started attending [PyLadies Melbourne](http://melbourne.pyladies.com/) as it's a welcoming community and I have been spending a bit more time with Python. The March meetup was a comparison of various editors and IDEs (Integrated Development Environments) and I volunteered to demonstrate {{< archive-robustlink originalurl="https://atom.io" versiondate="2019-03-17" versionurl="https://web.archive.org/web/20190317220234/https://atom.io/" text="Atom" >}}. Although I haven't spent a lot of time with Python yet, I have been using Atom for a few years and offered to talk about it as no one else had volunteered.
 
 I still consider [g]vi[m] my primary text and code editor as I can call `vi` from any command line terminal on my Mac or on a remote server. However, Atom, like other big editors and IDEs, are useful for getting an overview of files in a large project. Atom, like [Vim](https://www.vim.org/), is at the minimalistic end of the editor spectrum but can be configured and extended with many settings external plugins to suit the needs of all kinds of programmers and writers.
 
