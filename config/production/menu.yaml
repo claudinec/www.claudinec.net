@@ -23,4 +23,8 @@ main:
       name: Tags
       pageRef: /tags
       weight: 40
+    - identifier: feeds
+      name: Feeds
+      pageRef: /feeds
+      weight: 50
  
