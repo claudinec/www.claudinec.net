@@ -22,7 +22,7 @@ RSS feeds for:
 * Here
   * [Everything](https://www.claudinec.net/index.xml)
   * [Blog posts](https://www.claudinec.net/posts/index.xml)
-  * Hugo automatically generates RSS/Atom feeds for this site and every section and tag within it. Thanks, Hugo! On this site, you can add `index.xml` to the end of any URL ending with a slash to get the corresponding feed address.[^hugodocs]
+  * Hugo automatically generates RSS/Atom feeds for this site and every section and tag within it.[^hugodocs] Thanks, Hugo! You can add `index.xml` to the end of any URL ending with a slash on this site to get the corresponding feed address.
 * Elsewhere
   * [Mastodon](https://aus.social/@claudinec.rss)[^fedifeeds]
 
