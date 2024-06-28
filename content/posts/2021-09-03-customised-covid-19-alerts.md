@@ -1,7 +1,8 @@
 ---
 title: Customised Covid-19 alerts
 description: Moderating my anxiety with customised Covid-19 alerts
-slug: customised-covid-19-alerts
+aliases:
+- customised-covid-19-alerts
 draft: false
 date: 2021-09-03
 lastmod: 2021-09-03
