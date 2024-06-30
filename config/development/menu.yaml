@@ -15,11 +15,16 @@ main:
       name: Uses
       pageRef: /uses
       weight: 22
-    - identifier: tags
-      name: Tags
-      pageRef: /tags
-      weight: 30
     - identifier: posts
       name: Posts
       pageRef: /posts
+      weight: 30
+    - identifier: tags
+      name: Tags
+      pageRef: /tags
       weight: 40
+    - identifier: feeds
+      name: Feeds
+      pageRef: /feeds
+      weight: 50
+ 
