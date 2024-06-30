@@ -2,11 +2,11 @@
 <!-- args: author title year olWork -->
 <span class="book">
     {{ .Get "author" }},
-    {{ with .Get "u-uid" }}
+    {{ with .Get "olWork" }}
         <a href="https://openlibrary.org/works/{{ . }}">
     {{ end }}
     <em>{{ .Get "title" }}</em>
-    {{ if .Get "u-uid" }}
+    {{ if .Get "olWork" }}
         </a>
     {{ end }}
     ({{ .Get "year" }})
