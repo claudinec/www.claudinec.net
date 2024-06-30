@@ -1,7 +1,7 @@
 ---
 title: Adding Open Library IDs to my Reading page
 author: Claudine Chionh
-draft: true
+draft: false
 date: 2024-06-30
 tags: [hugo, books, reading, open-library, internet-archive, indieweb, ausglamr]
 ---
