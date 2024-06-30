@@ -7,6 +7,8 @@ date: 2024-06-22
 tags:
 - linkrot
 - web-archiving
+- wayback-machine
+- internet-archive
 - hugo
 - ausglamr
 ---
