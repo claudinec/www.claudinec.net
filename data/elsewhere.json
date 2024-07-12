@@ -1,0 +1,64 @@
+[
+  {
+    "id": "keyoxide",
+    "type": "keyoxide",
+    "name": "Keyoxide",
+    "url": "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"
+  },
+  {
+    "id": "mastodon",
+    "type": "mastodon",
+    "name": "Aus.social",
+    "url": "https://aus.social/@claudinec",
+    "note": "I cross-post links from my blog posts to Mastodon and may link discussions back to the original post."
+  },
+  {
+    "id": "libera.chat",
+    "type": irc",
+    "name": "Libera.chat",
+    "server": "irc.libera.chat",
+    "nick": "claudinec"
+  },
+  {
+    "id": "wikipedia-en",
+    "type": "wikimedia",
+    "name": "Wikipedia (English language)",
+    "url": "https://en.wikipedia.org/wiki/User:ClaudineChionh"
+  },
+  {
+    "id": "global",
+    "type": "wikimedia",
+    "name": "Wikimedia (global)",
+    "url": "https://meta.wikimedia.org/wiki/User:ClaudineChionh"
+  },
+  {
+    "id": "indieweb-wiki",
+    "type": "indieweb_wiki",
+    "name": "IndieWeb wiki",
+    "url": "https://indieweb.org/User:Www.claudinec.net"
+  },
+  {
+    "id": "srht",
+    "type": "sourcehut",
+    "name": "Sourcehut", 
+    "url": "https://sr.ht/~claudinec/"
+  },
+  {
+    "id": "github",
+    "type": "github",
+    "name": "GitHub",
+    "url": "https://github.com/claudinec"
+  },
+  {
+    "id": "lastfm",
+    "type": "lastfm",
+    "name": "Last.fm",
+    "url": "https://www.last.fm/user/claudinec"
+  },
+  {
+    "id": "letterboxd",
+    "type": "letterboxd",
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com/onefewercar/"
+  }
+]
