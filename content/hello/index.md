@@ -3,6 +3,8 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
+publishDate: 2024-07-19
+lastmod: 2024-07-19
 tags:
 - hello
 - contact
