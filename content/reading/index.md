@@ -3,14 +3,16 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-06-30
-lastmod: 2024-06-30
+publishDate: 2024-07-21
+lastmod: 2024-07-21
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
+* Fiction
+    * {{< book title="The Labyrinth Index" author="Charles Stross" year=2018 olWork="OL19761105W" >}}
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 olWork="OL18201749W" >}}
 
