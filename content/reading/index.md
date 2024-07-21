@@ -19,7 +19,7 @@ tags: [books, reading]
 
 ## Read in 2024
 
-I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, here's his [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) (or the [Wikipedia version with ISBNs](https://en.wikipedia.org/wiki/Charles_Stross_bibliography#The_Laundry_Files)
+I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, here's his [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) (or the [Wikipedia version with ISBNs](https://en.wikipedia.org/wiki/Charles_Stross_bibliography#The_Laundry_Files)).
 
 * Fiction
     * {{< book title="The Atrocity Archives" author="Charles Stross" year=2003 olWork="OL20085072W" >}}
