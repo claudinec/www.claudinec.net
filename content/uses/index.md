@@ -3,6 +3,7 @@ title: What I use
 draft: false
 date: 2024-02-24
 lastmod: 2024-06-23
+tags: [tools]
 ---
 
 Lists of things I use daily/frequently. Longer explanations may come later.
