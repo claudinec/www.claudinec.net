@@ -1,0 +1,13 @@
+<!-- Open Library API: https://openlibrary.org/dev/docs/api/books -->
+<!-- args: author title year olWork -->
+<span class="book">
+    {{ .Get "author" }},
+    {{ with .Get "olWork" }}
+        <a href="https://openlibrary.org/works/{{ . }}">
+    {{ end }}
+    <em>{{ .Get "title" }}</em>
+    {{ if .Get "olWork" }}
+        </a>
+    {{ end }}
+    ({{ .Get "year" }})
+</span>

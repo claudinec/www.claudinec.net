@@ -1,7 +1,0 @@
-main:
-    - identifier: posts
-      name: Posts
-      url: /posts
-    - identifier: uses
-      name: Uses
-      url: /uses

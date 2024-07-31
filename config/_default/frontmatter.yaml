@@ -1,7 +1,11 @@
 date:
+- publishdate
+- lastmod
+- date
 - :filename
 - :default
 lastmod:
 - :git
+- :fileModTime
 - lastmod
 - :default
