@@ -8,13 +8,13 @@
   {
     "id": "mastodon",
     "type": "mastodon",
-    "name": "Aus.social",
+    "name": "Aus.Social",
     "url": "https://aus.social/@claudinec",
     "note": "I cross-post links from my blog posts to Mastodon and may link discussions back to the original post."
   },
   {
     "id": "libera.chat",
-    "type": irc",
+    "type": "irc",
     "name": "Libera.chat",
     "server": "irc.libera.chat",
     "nick": "claudinec"
@@ -38,6 +38,12 @@
     "url": "https://indieweb.org/User:Www.claudinec.net"
   },
   {
+    "id": "orcid",
+    "type": "orcid",
+    "name": "ORCID",
+    "url": "https://orcid.org/0000-0001-5916-0277"
+  },
+  {
     "id": "srht",
     "type": "sourcehut",
     "name": "Sourcehut", 
@@ -48,6 +54,12 @@
     "type": "github",
     "name": "GitHub",
     "url": "https://github.com/claudinec"
+  },
+  {
+    "id": "pinboard",
+    "type": "pinboard",
+    "name": "Pinboard",
+    "url": "https://pinboard.in/u:claudinec"
   },
   {
     "id": "lastfm",
