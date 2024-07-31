@@ -3,6 +3,8 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
+publishDate: 2024-07-30
+lastmod: 2024-07-30
 tags:
 - hello
 - contact
@@ -40,8 +42,10 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :mammoth: Fediverse/Mastodon: [@claudinec@aus.social](https://aus.social/@claudinec). I cross-post links from my blog posts to Mastodon and may link discussions back to the original post.
 * :speech_balloon: IRC: `claudinec` on `irc.libera.chat`
 * :book: [Wikimedia](https://meta.wikimedia.org/wiki/User:ClaudineChionh) ([Wikipedia](https://en.wikipedia.org/wiki/User:ClaudineChionh) and friends)
+* :mortar_board: [ORCID](https://orcid.org/0000-0001-5916-0277)
 * :toolbox: [IndieWeb wiki](https://indieweb.org/User:Www.claudinec.net)
 * :hut: [Sourcehut](https://sr.ht/~claudinec/)
 * :octopus: [GitHub](https://github.com/claudinec)
+* :bookmark: [Pinboard](https://pinboard.in/u:claudinec)
 * :musical_note: [Last.fm](https://www.last.fm/user/claudinec)
 * :clapper: [Letterboxd](https://letterboxd.com/onefewercar/)
