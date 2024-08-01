@@ -14,7 +14,7 @@ tags: [books, reading]
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 olWork="OL18201749W" >}}
     * {{< book title="Keeping Archives" author="Jackie Bettington et. al." year=2008 olWork="OL17048467W" >}}
-    * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 work="OL21043904W" >}}
+    * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 olWork="OL21043904W" >}}
 
 ## Read in 2024
 
