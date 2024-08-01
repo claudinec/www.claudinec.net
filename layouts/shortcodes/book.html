@@ -1,13 +1,16 @@
-<!-- Open Library API: https://openlibrary.org/dev/docs/api/books -->
 <!-- args: author title year olWork -->
-<span class="book">
-    {{ .Get "author" }},
+<!-- h-cite spec: https://microformats.org/wiki/h-cite -->
+<!-- Open Library API: https://openlibrary.org/dev/docs/api/books -->
+<span class="h-cite book">
+    <span class="p-author h-card">{{ .Get "author" }}</span>,
+    <cite class="p-name">
     {{ with .Get "olWork" }}
-        <a href="https://openlibrary.org/works/{{ . }}">
+        <a class="u-url" href="https://openlibrary.org/works/{{ . }}">
     {{ end }}
     <em>{{ .Get "title" }}</em>
     {{ if .Get "olWork" }}
         </a>
     {{ end }}
-    ({{ .Get "year" }})
+    </cite>
+    (<time class="dt-published">{{ .Get "year" }}</time>)
 </span>
