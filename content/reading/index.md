@@ -3,14 +3,16 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01T18:09:55+11:00
-publishDate: 2024-08-01
-lastmod: 2024-08-01
+publishDate: 2024-08-02
+lastmod: 2024-08-02
 draft: false
 tags: [books, reading]
 ---
 
 ## Currently reading
 
+* Fiction
+    * {{< book title="Dead Lies Dreaming" author="Charles Stross" year=2020 olWork="OL20851082W" >}}
 * Non-fiction
     * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 olWork="OL18201749W" >}}
     * {{< book title="Keeping Archives" author="Jackie Bettington et. al." year=2008 olWork="OL17048467W" >}}
