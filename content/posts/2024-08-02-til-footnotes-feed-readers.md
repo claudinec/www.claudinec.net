@@ -1,9 +1,9 @@
 ---
-title: Today I Learned: Footnotes in feed readers
+title: "Today I Learned: Footnotes in feed readers"
 author: Claudine Chionh
 draft: false
 date: 2024-08-02
-tags: [til, hugo, markdown, html, css, feeds, rss, netnewswire, feedbin]
+tags: [til, footnotes, hugo, markdown, html, css, feeds, rss, netnewswire, feedbin]
 ---
 
 There's a *de facto* convention for rendering footnotes in HTML that enables feed readers to give them special treatment, e.g. NetNewsWire and Feedbin display them inline if you select the numbered footnote popup.
