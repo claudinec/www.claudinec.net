@@ -1,7 +1,7 @@
 ---
 title: IndieWebbing from the couch
 author: Claudine Chionh
-draft: true
+draft: false
 date: 2024-07-30
 tags: [hugo, ios, indieweb, indieweb-carnival, tools]
 ---
