@@ -9,6 +9,7 @@ assets:
     favicon16x16: "memoji-16x16.png"
     favicon32x32: "memoji-32x32.png"
     apple_touch_icon: "memoji-128x128.png"
+    safari_pinned_tab: "memoji-128x128.svg"
 
 homeInfoParams:
     title: "Claudine Chionh"
