@@ -1,9 +1,9 @@
 {{- define "main" }}
 
-<article class="post-single">
+<article class="h-entry post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
+    <h1 class="p-name post-title entry-hint-parent">
       {{ .Title }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
@@ -15,7 +15,7 @@
       {{- end }}
     </h1>
     {{- if .Description }}
-    <div class="post-description">
+    <div class="p-summary post-description">
       {{ .Description }}
     </div>
     {{- end }}
