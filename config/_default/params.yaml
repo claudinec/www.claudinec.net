@@ -6,6 +6,8 @@ label:
     icon: "/memoji-128x128.png"
 assets:
     favicon: "memoji-128x128.png"
+    favicon16x16: "memoji-16x16.png"
+    favicon32x32: "memoji-32x32.png"
     apple_touch_icon: "memoji-128x128.png"
 
 homeInfoParams:
