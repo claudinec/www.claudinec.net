@@ -1,2 +1,5 @@
 <!-- link to a fediverse thread -->
-<!-- [:mammoth: Fediverse thread]({{ .Get "threadUrl" }}) -->
+<!-- args: threadUrl -->
+<p class="u-syndication">
+  <a href="{{ .Get "threadUrl" }}">{{ transform.Emojify ":mammoth:" }} Fediverse thread</a>
+</p>
