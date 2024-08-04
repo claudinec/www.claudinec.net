@@ -19,3 +19,6 @@ There's a *de facto* convention for rendering footnotes in HTML that enables fee
 This Just Works :tm: in [Hugo](https://gohugo.io/getting-started/configuration-markup/#goldmark) and I'd never wondered why – it's a feature of [Goldmark](https://github.com/yuin/goldmark/blob/master/extension/footnote.go), Hugo's default Markdown parser.
 
 (And I was inspired by Simon to start posting 'Today I learned' posts – just a [tag](/tags/til) at this stage, not sure if I'll make its own category or subdomain.)
+
+{{< responses-fediverse-thread threadUrl="https://aus.social/@claudinec/112891175456704002" >}}
+
