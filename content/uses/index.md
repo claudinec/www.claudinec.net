@@ -2,7 +2,7 @@
 title: What I use
 draft: false
 date: 2024-02-24
-lastmod: 2024-06-23
+lastmod: 2024-11-09
 tags: [tools]
 ---
 
@@ -20,7 +20,7 @@ General principles: Unix-like servers, personal devices from the Appleverse. Thi
 
 - programming and, for want of a better term, "personal devops"
     - [Tailscale](https://tailscale.com/) connects all my devices in a VPN
-    - most code and config is kept in git repositories which live in [Gitolite](https://gitolite.com/gitolite/index.html) at home and, in some cases, also on GitHub
+    - most code and config is kept in git repositories which live in [Gitolite](https://gitolite.com/gitolite/index.html) at home and, in some cases, also on [Sourcehut](https://sr.ht/~claudinec/) or GitHub
     - after decades in bash and many years in zsh, I've been using [fish](https://fishshell.com/) as my primary shell since mid-2023
     - [tmux](https://github.com/tmux/tmux/wiki) plays nicely with both iTerm2 (macOS) and Secure Shellfish (iOS)
     - [Vim](https://www.vim.org/) is my default text editor; I periodically try to live with Emacs as my default (mainly because of [Org Mode](https://orgmode.org/)) but 25 years of `vi` muscle memory is hard to resist
