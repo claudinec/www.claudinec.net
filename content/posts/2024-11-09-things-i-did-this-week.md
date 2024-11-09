@@ -1,9 +1,9 @@
 ---
 title: Things I did this week
 author: Claudine Chionh
-draft: true
+draft: false
 date: 2024-11-09
-tags: wikimedia-foundation, wikipedia, archivebox, internet-archive, Sourcehut, uspol]
+tags: [wikimedia-foundation, wikipedia, archivebox, internet-archive, Sourcehut, uspol]
 ---
 
 :scroll: [**Signed the open letter to the Wikimedia Foundation**](https://en.wikipedia.org/wiki/Wikipedia:2024_open_letter_to_the_Wikimedia_Foundation) urging it not to dox editors who have annoyed an Indian news publisher.[^wtf-wmf]
