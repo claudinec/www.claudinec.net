@@ -27,13 +27,7 @@ main:
       name: Feeds
       pageRef: /feeds
       weight: 50
-    - identifier: feeds
-      name: Feeds
-      pageRef: /feeds
-      weight: 50
     - identifier: search
       name: Search
       pageRef: /search
       weight: 60
- 
- 
