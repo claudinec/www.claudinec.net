@@ -8,6 +8,6 @@ tags: [fediverse, mastodon]
 
 ## Introductions for complete newcomers
 
-* Comprehensive introductory guides to Mastodon and the Fediverse: [Fedi.Tips](https://fedi.tips/)
+* [**Fedi.Tips**](https://fedi.tips/) – Comprehensive introductory guides to Mastodon and the Fediverse
 
-* Lifehacker introductory article (October 2024): [How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media)
+* [**How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)**](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media) – Lifehacker introductory article (October 2024)
