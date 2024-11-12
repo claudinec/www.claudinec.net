@@ -10,6 +10,10 @@ main:
     - identifier: reading
       name: Reading
       pageRef: /reading
+      weight: 20
+    - identifier: library
+      name: Library
+      pageRef: /library
       weight: 21
     - identifier: uses
       name: Uses
@@ -27,13 +31,7 @@ main:
       name: Feeds
       pageRef: /feeds
       weight: 50
-    - identifier: feeds
-      name: Feeds
-      pageRef: /feeds
-      weight: 50
     - identifier: search
       name: Search
       pageRef: /search
       weight: 60
- 
- 

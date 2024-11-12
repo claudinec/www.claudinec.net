@@ -10,6 +10,10 @@ main:
     - identifier: reading
       name: Reading
       pageRef: /reading
+      weight: 20
+    - identifier: library
+      name: Library
+      pageRef: /library
       weight: 21
     - identifier: uses
       name: Uses
