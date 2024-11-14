@@ -3,10 +3,12 @@ title: IndieWebbing from the couch
 author: Claudine Chionh
 draft: false
 date: 2024-07-30
+publishdate: 2024-07-30
+lastmis: 2024-11-15
 tags: [hugo, ios, indieweb, indieweb-carnival, tools]
 ---
 
-I'm not going to pretend for a moment that building a personal website is easier than posting to a platform that someone else has already built. I know that updating content for a static site generator in a git repository from the command line introduces a whole lot of friction (and jargon) to the blogging/publishing process, when I could easily post elsewhere with a mobile app from the comfort of my couch or while commuting on a tram. But there enough development and automation tools available for iOS that I can use my iPad or phone as a portable development lab. Here's how I write and publish away from a computer.
+I'm not going to pretend for a moment that building a personal website is easier than posting to a platform that someone else has already built. I know that updating content for a static site generator in a git repository from the command line introduces a whole lot of friction (and jargon) to the blogging/publishing process, when I could easily post elsewhere with a mobile app from the comfort of my couch or while commuting on a tram. But there are enough development and automation tools available for iOS that I can use my iPad or phone as a portable development lab. Here's how I write and publish away from a computer.
 
 ## Ingredients
 
