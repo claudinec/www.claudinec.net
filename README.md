@@ -1,6 +1,6 @@
 # Claudine Chionh
 
-This is the [Hugo](https://gohugo.io/) source for [claudinec.net](https://www.claudinec.net/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://www.claudinec.net/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 [Sourcehut](https://sr.ht/~claudinec/www.claudinec.net/) | [GitHub](https://github.com/claudinec/www.claudinec.net)
 
