@@ -39,7 +39,7 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 [My primary online presence](https://indieweb.org/POSSE) is this website and anything on the domain `claudinec.net` but you can find me in a few other places (not an exhaustive list):
 
 * :key: [Keyoxide](https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059)
-* :mammoth: [Fediverse](/library/feeiverse)/Mastodon: [@claudinec@aus.social](https://aus.social/@claudinec). I cross-post links from my blog posts to Mastodon and may link discussions back to the original post.
+* :mammoth: [Fediverse](/library/fediverse)/Mastodon: [@claudinec@aus.social](https://aus.social/@claudinec). I cross-post links from my blog posts to Mastodon and may link discussions back to the original post.
 * :butterfly: [Bluesky](https://bsky.app/profile/claudinec.bsky.social) but only to follow people who aren't in the Fediverse
 * :speech_balloon: IRC: `claudinec` on `irc.libera.chat`
 * :book: [Wikimedia](https://meta.wikimedia.org/wiki/User:ClaudineChionh) ([Wikipedia](https://en.wikipedia.org/wiki/User:ClaudineChionh) and friends)
