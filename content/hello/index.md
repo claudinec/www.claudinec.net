@@ -3,8 +3,8 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
-publishDate: 2024-11-12
-lastmod: 2024-11-12
+publishDate: 2024-11-16
+lastmod: 2024-11-16
 tags:
 - hello
 - contact
@@ -22,7 +22,7 @@ Hi, I'm Claudine Chionh. My pronouns are [she/her/hers](https://pronouns.within.
 
 ### :email: Email
 
-Email me at [hello+www@claudinec.net](mailto:hello+www@claudinec.net). On this website, the "Email me about this page" link at the top of a page will pre-fill the subject field in your email client.
+**If you already have my email address at this domain, keep using that one**, otherwise you can email me at [hello+www@claudinec.net](mailto:hello+www@claudinec.net). On this website, the "Email me about this page" link at the top of a page will pre-fill the subject field in your email client.
 
 My GPG/PGP public key can be found on [keys.openpgp.org](https://keys.openpgp.org), [Keyoxide](https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059), or [on this site](/pubkey.asc).
 
@@ -38,7 +38,6 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 
 [My primary online presence](https://indieweb.org/POSSE) is this website and anything on the domain `claudinec.net` but you can find me in a few other places (not an exhaustive list):
 
-* :key: [Keyoxide](https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059)
 * :mammoth: [Fediverse](/library/fediverse)/Mastodon: [@claudinec@aus.social](https://aus.social/@claudinec). I cross-post links from my blog posts to Mastodon and may link discussions back to the original post.
 * :butterfly: [Bluesky](https://bsky.app/profile/claudinec.bsky.social) but only to follow people who aren't in the Fediverse
 * :speech_balloon: IRC: `claudinec` on `irc.libera.chat`
@@ -50,3 +49,4 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :bookmark: [Pinboard](https://pinboard.in/u:claudinec)
 * :musical_note: [Last.fm](https://www.last.fm/user/claudinec)
 * :clapper: [Letterboxd](https://letterboxd.com/claudinechionh/)
+* :key: [Keyoxide](https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059)
