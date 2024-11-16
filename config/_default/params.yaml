@@ -30,4 +30,5 @@ editPost:
     url: "mailto:hello+www@claudinec.net?subject=Comment%20on%20"
     text: "Email me about this page"
     appendFilePath: true
+ShowBreadCrumbs: true
 
