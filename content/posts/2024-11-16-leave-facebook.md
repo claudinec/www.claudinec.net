@@ -1,9 +1,9 @@
 ---
 title: Encouraging emigration from Facebook
 author: Claudine Chionh
-draft: true
+draft: false
 date: 2024-11-16
-tags: [elsewhere, facebook, fediverse, mastodon, bluesky]
+tags: [elsewhere, facebook, indieweb, fediverse, mastodon, bluesky]
 ---
 
 I still have friends and family whose online social experience is only on Facebook and its cousins. I periodically post reminders there to say that I'm not active on Facebook and my [Hello page](/hello) here always has my current contact details. In the spirit of [PESOS](https://indieweb.org/PESOS) (Publish Elsewhere, Syndicate on Own Site), here's a copy of my most recent reminder post.
