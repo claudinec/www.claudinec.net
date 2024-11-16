@@ -2,7 +2,7 @@
 title: Encouraging emigration from Facebook
 author: Claudine Chionh
 draft: false
-date: 2024-11-16
+date: 2024-11-16T15:10:00+11:00
 tags: [elsewhere, facebook, indieweb, fediverse, mastodon, bluesky]
 ---
 
@@ -18,7 +18,9 @@ I still have friends and family whose online social experience is only on Facebo
 > 
 > Threads is technically on the Fediverse, but my server is one of many that will not federate with it – more info at <https://fedipact.veganism.social/>
 > 
-> It looks like Facebook users are generally willing to settle for Bluesky as an alternative. You can follow me at <https://bsky.app/profile/claudinec.bsky.social> if you must, but again, I'm more at home in the Fediverse.
+> It looks like Facebook users are generally willing to settle for Bluesky as an alternative. You can follow me at ~~https://bsky.app/profile/claudinec.bsky.social~~[^bsky] if you must, but again, I'm more at home in the Fediverse.
+
+[^bsky]: [Changed](/posts/2024-11-16-bluesky-domain-handle) to [`@claudinec.net`](https://bsky.app/profile/claudinec.net).
 
 And within half an hour, my GM friends came through! We're moving all game chats to Discord which we were already using for in-game voice calls. And it prompted more ideas for documentation in my [library](/library):
 
