@@ -5,6 +5,7 @@ date: 2024-11-10
 publishdate: 2024-11-17
 lastmod: 2024-11-17
 tags: [fediverse, mastodon]
+ShowToc: true
 ---
 
 ## Introductions for complete newcomers
@@ -89,7 +90,7 @@ I used to spend a **lot** of time on Reddit – with its unified frontend to a w
 
 This unexpected change in Reddit's corporate attitude turned the spotlight on Lemmy and kbin, two Fediverse alternatives that were [unprepared for the sudden exodus from Reddit](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout). This spotlight also revealed that the primary developers of Lemmy were [Marxist-Leninist, Chinese Communist Party apologists, and genocide denialists](https://beehaw.org/comment/318333). As Lemmy is a Fediverse service, anyone can run a Lemmy server with its own rules for content and behaviour, but the positions of the primary developers have not helped ease friction among various Lemmy communities. In addition, kbin, the main alternative to Lemmy, has only a single core developer who seems unable to handle the workload. (Since I last looked at kbin, a fork, Mbin, has emerged and is under active development.)
 
-Like many others, I went looking for Reddit alternatives, but the [Reddit blackout protest](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy#Subreddit_blackout) gave me time to re-evaluate my Reddit habits and realise that Reddit and its Fediverse equivalents had become (for me) spaces for window-shopping (I subscribed to too many subreddits for stationery collectors and specialty coffee enthusiasts) and watching argumentative people get into fights. While I think Beehaw and Blâhaj are examples of healthy Lemmy servers, I've gradually weaned myself off this particular kind of discussion space and don't spend much time on Lemmy now.
+Like many others, I went looking for Reddit alternatives, but the [Reddit blackout protest](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy#Subreddit_blackout) gave me time to re-evaluate my Reddit habits and realise that Reddit and its Fediverse equivalents had become (for me) spaces for window-shopping (I subscribed to too many subreddits for stationery collectors and specialty coffee enthusiasts) and watching argumentative people get into fights. While I think Beehaw and Blåhaj are examples of healthy Lemmy servers, I've gradually weaned myself off this particular kind of discussion space and don't spend much time on Lemmy now.
 
 Whereas choosing a Twitter alternative (whether in the Fediverse or on one of its Big Tech competitors) depends a lot on finding the people/accounts you want to follow, choosing 'Threadiverse' (threaded discussion) alternatives is more focused on finding *communities*. Lemmy and similar servers are building their own communities, but following the Reddit exodus, many Reddit moderators moved their communities to various Fediverse servers, and [**sub.rehab**](https://sub.rehab/) provides a search interface to known Reddit alternatives. Again, in the Fediverse you may need only a single account to interact with any other account or community; however, if you follow a Threadiverse community from a non-Threadiverse account, you can't take advantage of many of the distinctive features of threaded discussion servers.
 
