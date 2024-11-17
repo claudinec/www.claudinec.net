@@ -2,7 +2,7 @@
 title: The Fediverse
 draft: false
 date: 2024-11-10
-publishdate: 2024-11-10
+publishdate: 2024-11-17
 lastmod: 2024-11-17
 tags: [fediverse, mastodon]
 ---
