@@ -3,8 +3,8 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
-publishDate: 2024-11-16
-lastmod: 2024-11-16
+publishDate: 2024-11-24
+lastmod: 2024-11-24
 tags:
 - hello
 - contact
@@ -47,6 +47,7 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :hut: [Sourcehut](https://sr.ht/~claudinec/)
 * :octopus: [GitHub](https://github.com/claudinec)
 * :bookmark: [Pinboard](https://pinboard.in/u:claudinec)
+* :newspaper: [NewsBlur](https://claudinec.newsblur.com/)
 * :musical_note: [Last.fm](https://www.last.fm/user/claudinec)
 * :clapper: [Letterboxd](https://letterboxd.com/claudinechionh/)
 * :key: [Keyoxide](https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059)
