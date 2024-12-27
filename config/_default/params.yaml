@@ -18,12 +18,16 @@ homeInfoParams:
         - name: "Posts"
           url: "/posts"
 socialIcons:
+    - name: "wikipedia"
+      url: "https://en.wikipedia.org/wiki/User:ClaudineChionh"
     - name: "sourcehut"
       url: "https://sr.ht/~claudinec/"
     - name: "github"
       url: "https://github.com/claudinec"
     - name: "mastodon"
       url: "https://aus.social/@claudinec"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/claudinec.net"
     - name: "email"
       url: "mailto:hello+www@claudinec.net"
 editPost:
