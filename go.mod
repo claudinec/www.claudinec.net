@@ -1,4 +1,4 @@
-module github.com/claudinec/www.claudinec.net
+module git.sr.ht/~claudinec/www.claudinec.net
 
 go 1.21
 
