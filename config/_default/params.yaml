@@ -24,8 +24,8 @@ socialIcons:
       url: "https://github.com/claudinec"
     - name: "mastodon"
       url: "https://aus.social/@claudinec"
-    - name: "pgp"
-      url: "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"
+    - name: "email"
+      url: "mailto:hello+www@claudinec.net"
 editPost:
     url: "mailto:hello+www@claudinec.net?subject=Comment%20on%20"
     text: "Email me about this page"
