@@ -4,6 +4,13 @@ This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://ww
 
 [Sourcehut](https://sr.ht/~claudinec/www.claudinec.net/) | [GitHub](https://github.com/claudinec/www.claudinec.net)
 
+## Environment versions
+
+| Env  |   Hugo  |    Go   |
+|:-----|:-------:|:-------:|
+| Dev  | 0.140.0 |  1.23.4 |
+| Prod | 0.133.1 | 1.21.12 |
+
 ## Licence
 
 Copyright (C) Claudine Chionh
