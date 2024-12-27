@@ -1,5 +1,3 @@
 <!-- indicate this post was originally on Mastodon -->
 <!-- args: mastodonUrl -->
-<p class="u-repost-of h-cite">
-  <a href="{{ .Get "mastodonUrl" }}"><small>{{ transform.Emojify ":mammoth:" }} Originally posted to Mastodon</small></a>
-</p>
+<a class="u-repost-of h-cite" href="{{ .Get "mastodonUrl" }}"><small>{{ transform.Emojify ":mammoth:" }} Originally posted to Mastodon</small></a>

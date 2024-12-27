@@ -1,5 +1,3 @@
 <!-- link to this post POSSEd to Mastodon -->
 <!-- args: mastodonUrl -->
-<p class="u-syndication">
-  <a href="{{ .Get "mastodonUrl" }}"><small>{{ transform.Emojify ":mammoth:" }} Also posted to Mastodon</small></a>
-</p>
+<a class="u-syndication" href="{{ .Get "mastodonUrl" }}"><small>{{ transform.Emojify ":mammoth:" }} Also posted to Mastodon</small></a>
