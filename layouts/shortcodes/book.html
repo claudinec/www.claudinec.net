@@ -8,9 +8,16 @@
         <a class="u-url" href="https://openlibrary.org/works/{{ . }}">
     {{ end }}
     <em>{{ .Get "title" }}</em>
-    {{ if .Get "olWork" }}
+    {{ if .Get "olWork" -}}
         </a>
     {{ end }}
     </cite>
-    (<time class="dt-published">{{ .Get "year" }}</time>)
+    {{ with .Get "translator" }}
+        (translated by {{ . }},
+    {{ end }}
+    {{ if .Get "translator" }}
+        <time class="dt-published">{{ .Get "year" }}</time>)
+    {{ else }}
+        (<time class="dt-published">{{ .Get "year" }}</time>)
+    {{ end }}
 </span>
