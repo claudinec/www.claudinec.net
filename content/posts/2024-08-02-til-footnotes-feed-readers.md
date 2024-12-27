@@ -20,5 +20,5 @@ This Just Works :tm: in [Hugo](https://gohugo.io/getting-started/configuration-m
 
 (And I was inspired by Simon to start posting 'Today I learned' posts – just a [tag](/tags/til) at this stage, not sure if I'll make its own category or subdomain.)
 
-{{< responses-fediverse-thread threadUrl="https://aus.social/@claudinec/112891175456704002" >}}
+{{< posse-mastodon mastodonUrl="https://aus.social/@claudinec/112891175456704002" >}}
 

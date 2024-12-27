@@ -12,7 +12,7 @@ James posted his [decision tree](https://jamesg.blog/2024/03/30/coffee-to-drink-
 
 <!--more-->
 
-[^thread]: [Discussion on Mastodon :mammoth:](https://aus.social/@claudinec/112187405907379141)
+[^thread]: [:mammoth: Discussion on Mastodon](https://aus.social/@claudinec/112187405907379141)
 
 ```goat
                  .---------------------------------------.

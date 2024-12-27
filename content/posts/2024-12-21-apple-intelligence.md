@@ -29,8 +29,5 @@ GOOD: If I send a query to ChatGPT, the response includes a link to the query on
 
 ADDENDUM, MEH: This is more a criticism of ChatGPT. As work has been busy I haven't kept up with James Hoffmann's decaf project. My initial query and two followup requests resulted in [three lists of six videos](https://chatgpt.com/share/67661c37-0b5c-800c-9ff1-a04fdf202c43), overlapping but not identical. I wanted the same results, with additional formatting requests. I'm also not confident that I have all the results I wanted. But I really haven't spent much time trying to make ChatGPT work for me.
 
-Originally posted elsewhere:
-
-- [:mammoth: Mastodon](https://aus.social/@claudinec/113688501387922384)
-- [:butterfly: Bluesky](https://bsky.app/profile/claudinec.net/post/3ldrv2dwkik2t)
+{{< pesos-mastodon mastodonUrl="https://aus.social/@claudinec/113688501387922384" >}} &middot; {{< pesos-bluesky blueskyUrl="https://bsky.app/profile/claudinec.net/post/3ldrv2dwkik2t" >}}
 

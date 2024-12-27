@@ -14,10 +14,5 @@ Who would read this kind of blog post, though? This is useful for office adminis
 
 (Don't tell me an office admin can get a chatbot to write code for them – not a good idea if they don't understand what the code is doing.)
 
----
-
-Originally posted elsewhere:
-
-- [:mammoth: Mastodon](https://aus.social/@claudinec/113665390995716667) – a bit of discussion
-- [:butterfly: Bluesky](https://bsky.app/profile/claudinec.net/post/3ldhml453tc26) – crickets ...
+{{< pesos-mastodon mastodonUrl="https://aus.social/@claudinec/113665390995716667" >}} &middot; {{< pesos-bluesky blueskyUrl="https://bsky.app/profile/claudinec.net/post/3ldhml453tc26" >}}
 
