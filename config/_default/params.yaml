@@ -35,4 +35,5 @@ editPost:
     text: "Email me about this page"
     appendFilePath: true
 ShowBreadCrumbs: true
+ShowWordCount: true
 
