@@ -5,6 +5,7 @@ description: Not a year in review post, but maybe a goal
 author: Claudine Chionh
 date: 2024-12-31
 publishDate: 2024-12-31
+lastmod: 2025-01-05
 draft: false
 tags: [motorcycling, learning, life]
 ---
@@ -29,3 +30,4 @@ I'm already committed enough to have bought [All The Gear](https://en.wiktionary
 
 [^gear]: I don't have an unusually sized or shaped head and I knew that the 'Small' helmets used by the school fit me, but I have trouble finding gloves, jackets, and trousers that fit even before considering safety. Shout out to [Peak Moto](https://peakmotogear.com.au/) in South Melbourne – a woman-owned shop that caters to women and men of all shapes and sizes.
 
+{{< posse-mastodon mastodonUrl="https://aus.social/@claudinec/113747025025619186" >}}
