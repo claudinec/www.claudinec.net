@@ -2,7 +2,7 @@
 title: The Fediverse
 draft: false
 date: 2024-11-10
-publishdate: 2024-11-17
+publishdate: 2025-01-11
 lastmod: 2025-01-11
 tags: [fediverse, mastodon]
 ShowToc: true
@@ -33,8 +33,10 @@ January 2025: Facebook's changes to content moderation and opening the doors to 
 
   - [**Mstdn.Social** announcement](https://mstdn.social/@stux/113793895110300721)
 
-    > I just checked the numbers and it seems Threads is the biggest 'loser' here  
-    > On all instances combined we lose just under 100 followers spread across all instances  
+    > I just checked the numbers and it seems Threads is the biggest 'loser' here
+
+    > On all instances combined we lose just under 100 followers spread across all instances
+
     > Threads will lose over 13K total
 
   - [**Wandering.Shop** announcement](https://wandering.shop/@proprietor/113806187460853767)
