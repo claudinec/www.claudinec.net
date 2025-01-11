@@ -21,12 +21,26 @@ January 2025: Facebook's changes to content moderation and opening the doors to 
 {{< /notice >}}
 
 - **Explainers**
+
   - **Nexus of Privacy**
+
     - [Blocking Threads – why and how](https://privacy.thenexus.today/how-to-block-threads-on-mastodon/)
     - [Discussion](https://infosec.exchange/@thenexusofprivacy/113789128823514251)
+
   - [**Hachyderm**: Defederation from Threads](https://community.hachyderm.io/blog/2025/01/09/defederation-from-threads/)
+
+    > There were 2033 unique Hachyderm accounts following 919 unique Threads accounts and 26 unique Threads accounts following 22 unique Hachyderm accounts.
+
+  - [**Mstdn.Social** announcement](https://mstdn.social/@stux/113793895110300721)
+
+    > I just checked the numbers and it seems Threads is the biggest 'loser' here  
+    > On all instances combined we lose just under 100 followers spread across all instances  
+    > Threads will lose over 13K total
+
   - [**Wandering.Shop** announcement](https://wandering.shop/@proprietor/113806187460853767)
+
 - [**Fedipact**](https://fedipact.veganism.social/) list of servers that block Threads
+  - as of 11 January, outdated per [Mastodon Migration](https://mastodon.online/@mastodonmigration/113808442050324779)
 
 ## Types of service
 
