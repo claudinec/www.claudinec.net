@@ -16,8 +16,9 @@ ShowToc: true
 
 ## Staying safe from Facebook's Threads
 
-> [!NOTE]
-> January 2025: Facebook's changes to content moderation and opening the doors to hate speech have revitalised the Fediverse's efforts to keep our communities safe from Facebook's Threads. Watch this space – I will continue to add external resources and commentary as these efforts grow.
+{{< notice note >}}
+January 2025: Facebook's changes to content moderation and opening the doors to hate speech have revitalised the Fediverse's efforts to keep our communities safe from Facebook's Threads. Watch this space – I will continue to add external resources and commentary as these efforts grow.
+{{< /notice >}}
 
 - **Explainers**
   - **Nexus of Privacy**
