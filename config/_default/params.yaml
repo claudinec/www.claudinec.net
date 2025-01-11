@@ -30,6 +30,8 @@ socialIcons:
       url: "https://bsky.app/profile/claudinec.net"
     - name: "email"
       url: "mailto:hello+www@claudinec.net"
+    - name: "signal"
+      url: "https://signal.me/#eu/ge1HivyRywcgzozT1FTghdZKDktEuHhQC59rD2R4f82IF0qgmIBCgKb-TKdDARKa"
 editPost:
     url: "mailto:hello+www@claudinec.net?subject=Comment%20on%20"
     text: "Email me about this page"
