@@ -3,7 +3,7 @@ title: The Fediverse
 draft: false
 date: 2024-11-10
 publishdate: 2024-11-17
-lastmod: 2024-11-17
+lastmod: 2025-01-11
 tags: [fediverse, mastodon]
 ShowToc: true
 ---
@@ -13,6 +13,19 @@ ShowToc: true
 * [**Fedi.Tips**](https://fedi.tips/) – Comprehensive introductory guides to Mastodon and the wider Fediverse
 
 * [**How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)**](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media) – Lifehacker introductory article (October 2024)
+
+## Staying safe from Facebook's Threads
+
+> [!NOTE]
+> January 2025: Facebook's changes to content moderation and opening the doors to hate speech have revitalised the Fediverse's efforts to keep our communities safe from Facebook's Threads. Watch this space – I will continue to add external resources and commentary as these efforts grow.
+
+- **Explainers**
+  - **Nexus of Privacy**
+    - [Blocking Threads – why and how](https://privacy.thenexus.today/how-to-block-threads-on-mastodon/)
+    - [Discussion](https://infosec.exchange/@thenexusofprivacy/113789128823514251)
+  - [**Hachyderm**: Defederation from Threads](https://community.hachyderm.io/blog/2025/01/09/defederation-from-threads/)
+  - [**Wandering.Shop** announcement](https://wandering.shop/@proprietor/113806187460853767)
+- [**Fedipact**](https://fedipact.veganism.social/) list of servers that block Threads
 
 ## Types of service
 
