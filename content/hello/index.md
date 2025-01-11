@@ -4,7 +4,7 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
-lastmod: 2024-12-27
+lastmod: 2025-01-11
 tags:
 - hello
 - contact
