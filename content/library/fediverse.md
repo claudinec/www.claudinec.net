@@ -3,7 +3,7 @@ title: The Fediverse
 draft: false
 date: 2024-11-10
 publishdate: 2025-01-11
-lastmod: 2025-01-11
+lastmod: 2025-01-19
 tags: [fediverse, mastodon]
 ShowToc: true
 ---
@@ -42,7 +42,7 @@ January 2025: Facebook's changes to content moderation and opening the doors to 
   - [**Wandering.Shop** announcement](https://wandering.shop/@proprietor/113806187460853767)
 
 - [**Fedipact**](https://fedipact.veganism.social/) list of servers that block Threads
-  - as of 11 January, outdated per [Mastodon Migration](https://mastodon.online/@mastodonmigration/113808442050324779)
+  - also tracked on [**FediDB**](https://fedidb.org/current-events/anti-meta-fedi-pact)
 
 ## Types of service
 
