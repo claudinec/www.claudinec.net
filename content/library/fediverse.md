@@ -2,7 +2,7 @@
 title: The Fediverse
 draft: false
 date: 2024-11-10
-publishdate: 2025-01-11
+publishdate: 2025-01-19
 lastmod: 2025-01-19
 tags: [fediverse, mastodon]
 ShowToc: true
@@ -10,9 +10,13 @@ ShowToc: true
 
 ## Introductions for complete newcomers
 
-* [**Fedi.Tips**](https://fedi.tips/) – Comprehensive introductory guides to Mastodon and the wider Fediverse
+- [**Fedi.Tips**](https://fedi.tips/) – Comprehensive introductory guides to Mastodon and the wider Fediverse
 
-* [**How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)**](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media) – Lifehacker introductory article (October 2024)
+  - [**Pixelfed guide**](https://fedi.tips/pixelfed-photo-sharing-on-the-fediverse/)[^pixelfed]
+
+- [**How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)**](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media) – Lifehacker introductory article (October 2024)
+
+[^pixelfed]: The Facebook exodus is also driving people from Instagram to [Pixelfed](https://pixelfed.org/). I stopped using Instagram years ago so I don't have much to say about social photo-sharing but will link to more guides and explainers as I find them.
 
 ## Staying safe from Facebook's Threads
 
@@ -42,6 +46,7 @@ January 2025: Facebook's changes to content moderation and opening the doors to 
   - [**Wandering.Shop** announcement](https://wandering.shop/@proprietor/113806187460853767)
 
 - [**Fedipact**](https://fedipact.veganism.social/) list of servers that block Threads
+  
   - also tracked on [**FediDB**](https://fedidb.org/current-events/anti-meta-fedi-pact)
 
 ## Types of service
