@@ -12,11 +12,16 @@ ShowToc: true
 
 - [**Fedi.Tips**](https://fedi.tips/) – Comprehensive introductory guides to Mastodon and the wider Fediverse
 
-  - [**Pixelfed guide**](https://fedi.tips/pixelfed-photo-sharing-on-the-fediverse/)[^pixelfed]
-
 - [**How the 'Fediverse' Works (and Why It Might Be the Future of Social Media)**](https://lifehacker.com/tech/what-is-the-fediverse-the-potential-future-of-social-media) – Lifehacker introductory article (October 2024)
 
-[^pixelfed]: The Facebook exodus is also driving people from Instagram to [Pixelfed](https://pixelfed.org/). I stopped using Instagram years ago so I don't have much to say about social photo-sharing but will link to more guides and explainers as I find them.
+## Photo and video
+
+{{< notice note >}}
+January 2025: What a week! The Facebook exodus is also driving people from Instagram to [Pixelfed](https://pixelfed.org/), and TikTok has just disappeared from the USA. I'm a text-first person; I stopped using Instagram years ago and I personally never saw the appeal of a constant stream of random short videos. Instead of trying to make sense of all this now, I'll add links to guides by others who understand these formats.
+{{< /notice >}}
+
+- [**Fedi.Tips Pixelfed guide**](https://fedi.tips/pixelfed-photo-sharing-on-the-fediverse/)
+- [**Mastodon Migration**](https://mastodon.online/@mastodonmigration/113853563315400113): 'Welcome people from #TikTok checking it out here. Mastodon is very different, but you can post and view videos here. How to scroll a Mastodon video feed...'
 
 ## Staying safe from Facebook's Threads
 
