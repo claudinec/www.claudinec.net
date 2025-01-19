@@ -17,7 +17,7 @@ ShowToc: true
 ## Photo and video
 
 {{< notice note >}}
-January 2025: What a week! The Facebook exodus is also driving people from Instagram to [Pixelfed](https://pixelfed.org/), and TikTok has just disappeared from the USA. I'm a text-first person; I stopped using Instagram years ago and I personally never saw the appeal of a constant stream of random short videos. Instead of trying to make sense of all this now, I'll add links to guides by others who understand these formats.
+*19 January 2025*: What a week! The Facebook exodus is also driving people from Instagram to [Pixelfed](https://pixelfed.org/), and TikTok has just disappeared from the USA. I'm a text-first person; I stopped using Instagram years ago and I personally never saw the appeal of a constant stream of random short videos. Instead of trying to make sense of all this now, I'll add links to guides by others who understand these formats.
 {{< /notice >}}
 
 - [**Fedi.Tips Pixelfed guide**](https://fedi.tips/pixelfed-photo-sharing-on-the-fediverse/)
@@ -26,7 +26,7 @@ January 2025: What a week! The Facebook exodus is also driving people from Insta
 ## Staying safe from Facebook's Threads
 
 {{< notice note >}}
-January 2025: Facebook's changes to content moderation and opening the doors to hate speech have revitalised the Fediverse's efforts to keep our communities safe from Facebook's Threads. Watch this space – I will continue to add external resources and commentary as these efforts grow.
+*January 2025*: Facebook's changes to content moderation and opening the doors to hate speech have revitalised the Fediverse's efforts to keep our communities safe from Facebook's Threads. Watch this space – I will continue to add external resources and commentary as these efforts grow.
 {{< /notice >}}
 
 - **Explainers**
