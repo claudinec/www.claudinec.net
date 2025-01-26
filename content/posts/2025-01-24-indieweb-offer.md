@@ -3,6 +3,7 @@ title: "An offer: Helping you own your identity online"
 author: Claudine Chionh
 draft: false
 date: 2025-01-24
+publishDate: 2025-01-26
 tags: [indieweb, digital-sovereignty]
 ---
 
