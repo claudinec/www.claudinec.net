@@ -6,6 +6,8 @@ date: 2024-04-01
 lastmod: 2025-01-02
 draft: false
 tags: [books, reading]
+sitemap:
+  changeFreq: monthly
 ---
 
 ## Currently reading

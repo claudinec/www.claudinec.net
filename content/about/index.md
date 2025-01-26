@@ -4,7 +4,9 @@ lastmod: 2024-06-22
 publishdate: 2024-06-22
 draft: false
 title: About
-tags:
+tags: [about]
+sitemap:
+  changeFreq: monthly
 ---
 
 ## About me

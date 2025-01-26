@@ -6,6 +6,8 @@ publishdate: 2025-01-19
 lastmod: 2025-01-19
 tags: [fediverse, mastodon]
 ShowToc: true
+sitemap:
+  changeFreq: monthly
 ---
 
 ## Introductions for complete newcomers
