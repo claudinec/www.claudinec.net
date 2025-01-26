@@ -12,6 +12,8 @@ tags:
 aliases:
 - contact
 - elsewhere
+sitemap:
+  priority: 0.8
 ---
 
 Hi, I'm Claudine Chionh. My pronouns are [she/her/hers](https://pronouns.within.lgbt/she/her). My family name is pronounced (from the Hokkien) [/t͡ɕiɔŋ⁵³/](https://en.wiktionary.org/wiki/蔣#Pronunciation_1) ("Chiong") but I'll answer to anything that comes close.[^chionh]
