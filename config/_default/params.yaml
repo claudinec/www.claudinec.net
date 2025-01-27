@@ -39,4 +39,5 @@ editPost:
 ShowBreadCrumbs: true
 ShowWordCount: true
 ShowFullTextinRSS: true
+ShowRssButtonInSectionTermList: true
 
