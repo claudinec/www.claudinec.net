@@ -14,7 +14,7 @@
 
 {{- if not (.Param "hideAuthor") -}}
 {{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice (printf "<span class='h-card p-name'>%s</span>" .)) }}
+{{- $scratch.Add "meta" (slice (printf "<span class='p-author h-card p-name'>%s</span>" .)) }}
 {{- end }}
 {{- end }}
 
