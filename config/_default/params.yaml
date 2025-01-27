@@ -38,4 +38,5 @@ editPost:
     appendFilePath: true
 ShowBreadCrumbs: true
 ShowWordCount: true
+ShowFullTextinRSS: true
 
