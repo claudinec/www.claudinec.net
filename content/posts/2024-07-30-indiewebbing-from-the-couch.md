@@ -37,4 +37,4 @@ To create a new post or page, I have a [Shortcut](https://support.apple.com/en-a
 
 Sure, it's not as streamlined as writing and publishing from a single app, but after no more than an hour's initial setup time I have an iOS blogging environment that replicates my computer setup.
 
-*This post was written for the July 2024 [IndieWeb Carnival: Tools](https://jamesg.blog/2024/07/01/indieweb-carnival-tools/). Thanks James for hosting this month's Carnival. I really thought I was going to write about my favourite analogue writing tools and stationery for this Carnival, but somehow this post emerged instead.*
+{{< iwc-post date="July 2024" topic="Tools" host="James" url="https://jamesg.blog/2024/07/01/indieweb-carnival-tools/" comment="I really thought I was going to write about my favourite analogue writing tools and stationery for this Carnival, but somehow this post emerged instead." >}}
