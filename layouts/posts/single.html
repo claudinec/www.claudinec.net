@@ -35,6 +35,9 @@
   {{- end }}
 
   {{- if .Content }}
+    {{- if .Params.inReplyTo.url }}
+      {{- partial "reply.html" . }}
+    {{- end }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
