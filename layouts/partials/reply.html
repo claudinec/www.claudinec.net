@@ -2,5 +2,5 @@
 <!-- params: inReplyTo: author title url -->
 
 <div>
-  <em>Re: <a href="{{ .Params.inReplyTo.url }}" class="u-in-reply-to"><span class="p-author h-card">{{ .Params.inReplyTo.author }}</span>,<strong>{{ .Params.inReplyTo.title }}</strong></a></em>
+  <small><em>Re: <a href="{{ .Params.inReplyTo.url }}" class="u-in-reply-to"><span class="p-author h-card">{{ .Params.inReplyTo.author }}</span>, <strong>{{ .Params.inReplyTo.title }}</strong></a></em></small>
 </div>
