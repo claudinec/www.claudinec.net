@@ -2,6 +2,8 @@
 date: "2021-08-13"
 draft: false
 title: CV
+sitemap:
+  priority: -1
 ---
 
 ## Experience

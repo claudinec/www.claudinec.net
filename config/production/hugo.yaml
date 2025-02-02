@@ -1,3 +1,4 @@
 buildDrafts: false
 enableRobotsTXT: false
- 
+sitemap:
+  changeFreq: weekly

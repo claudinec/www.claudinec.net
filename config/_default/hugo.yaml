@@ -11,4 +11,11 @@ enableEmoji: true
 module:
     imports:
         - path: github.com/adityatelange/hugo-PaperMod
+        - path: github.com/martignoni/hugo-notice
 theme: github.com/adityatelange/hugo-PaperMod
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+

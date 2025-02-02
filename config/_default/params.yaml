@@ -6,7 +6,10 @@ label:
     icon: "/memoji-128x128.png"
 assets:
     favicon: "memoji-128x128.png"
+    favicon16x16: "memoji-16x16.png"
+    favicon32x32: "memoji-32x32.png"
     apple_touch_icon: "memoji-128x128.png"
+    safari_pinned_tab: "memoji-128x128.svg"
 
 homeInfoParams:
     title: "Claudine Chionh"
@@ -15,11 +18,26 @@ homeInfoParams:
         - name: "Posts"
           url: "/posts"
 socialIcons:
+    - name: "wikipedia"
+      url: "https://en.wikipedia.org/wiki/User:ClaudineChionh"
     - name: "sourcehut"
       url: "https://sr.ht/~claudinec/"
     - name: "github"
       url: "https://github.com/claudinec"
     - name: "mastodon"
       url: "https://aus.social/@claudinec"
-    - name: "pgp"
-      url: "https://keyoxide.org/8B825A69DFB6DED67697C7EB19611CA3BA9E8059"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/claudinec.net"
+    - name: "email"
+      url: "mailto:hello+www@claudinec.net"
+    - name: "signal"
+      url: "https://signal.me/#eu/ge1HivyRywcgzozT1FTghdZKDktEuHhQC59rD2R4f82IF0qgmIBCgKb-TKdDARKa"
+editPost:
+    url: "mailto:hello+www@claudinec.net?subject=Comment%20on%20"
+    text: "Email me about this page"
+    appendFilePath: true
+ShowBreadCrumbs: true
+ShowWordCount: true
+ShowFullTextinRSS: true
+ShowRssButtonInSectionTermList: true
+

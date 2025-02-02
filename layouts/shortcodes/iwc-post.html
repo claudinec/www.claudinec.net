@@ -1,0 +1,10 @@
+<!-- This is an IndieWeb Carnival post -->
+<!-- args: date topic host openingUrl roundupUrl comment -->
+<p>
+  {{ transform.Emojify ":circus_tent:" }} <em>This post was written for the <a href="{{ .Get "openingUrl" }}">{{ .Get "date" }} IndieWeb Carnival: {{ .Get "topic" }}</a>{{ with .Get "roundupUrl" }} (<a href="{{ . }}">roundup post</a>){{ end }}. Thanks {{ .Get "host" }} for hosting this month's Carnival.
+    {{ with .Get "comment" -}}
+      {{ . }}
+    {{- end }}
+  </em>
+</p>
+

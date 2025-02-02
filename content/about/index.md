@@ -1,15 +1,13 @@
 ---
 date: "2023-06-17"
-lastmod: "2024-02-27"
-publishdate: "2024-02-27"
+lastmod: 2024-06-22
+publishdate: 2024-06-22
 draft: false
 title: About
-tags:
+tags: [about]
+sitemap:
+  changeFreq: monthly
 ---
-
-## How to refer to me
-
-Hi, I'm Claudine Chionh. My pronouns are [she/her/hers](https://pronouns.within.lgbt/she/her). My family name is pronounced (from the Hokkien) [/t͡ɕiɔŋ⁵³/](https://en.wiktionary.org/wiki/蔣#Pronunciation_1) ("Chiong") but I'll answer to anything that comes close. "Chionh" is a bad romanisation of [Jiǎng (蒋)](https://en.wikipedia.org/wiki/Ji%C7%8Eng_(surname)) – family lore says that the misspelling was introduced by a British colonial clerk.
 
 ## About me
 
@@ -17,7 +15,7 @@ When I was a child I sometimes made my own [library cards and envelopes](https:/
 
 I worked "in tech" for about fifteen years but in 2019 I was looking for more balance between technology and the humanities and between work and "life". I retrained in Information Management during the world's longest lockdowns and now work for the [Australian Queer Archives](https://queerarchives.org.au/) as I explore what a midlife GLAMRous career change might look like. I'm still wrangling spreadsheets at work but I appreciate not having my entire work day occupied with technology problems. It's even enabled me to rediscover the fun of programming as a hobby.
 
-I live and work on the lands of the [Wurundjeri Woi Wurrung](https://www.wurundjeri.com.au/) and Yalukit-willam (Boonwurrung) peoples in what is commonly known as Melbourne, Australia. If you're in the same part of the world, you can learn more about [identifying traditional owners](https://aiatsis.gov.au/whose-country) and view a general [map](https://aiatsis.gov.au/explore/map-indigenous-australia) on the AIATSIS website.
+I live and work on the lands of the [Wurundjeri Woi Wurrung](https://www.wurundjeri.com.au/) and Yalukit-willam ([Bunurong](https://www.bunuronglc.org/)) peoples in what is commonly known as Melbourne, Australia. If you're in the same part of the world, you can learn more about [identifying traditional owners](https://aiatsis.gov.au/whose-country) and view a general [map](https://aiatsis.gov.au/explore/map-indigenous-australia) on the AIATSIS website.
 
 ## About this site
 
