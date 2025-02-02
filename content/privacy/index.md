@@ -8,6 +8,9 @@ lastmod: 2025-02-02
 draft: false
 tags: [privacy, analytics]
 aliases: [privacy-policy]
+ShowToc: true
+sitemap:
+  changeFreq: yearly
 ---
 
 ## This website
