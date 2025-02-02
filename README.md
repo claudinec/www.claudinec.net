@@ -9,7 +9,7 @@ This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://ww
 | Env  |   Hugo  |    Go   |
 |:-----|:-------:|:-------:|
 | Dev  | 0.140.2 |  1.23.4 |
-| Prod | 0.133.1 | 1.21.12 |
+| Prod | 0.140.2 | 1.21.13 |
 
 ## Licence
 
