@@ -24,6 +24,8 @@ socialIcons:
       url: "https://en.wikipedia.org/wiki/User:ClaudineChionh"
     - name: "sourcehut"
       url: "https://sr.ht/~claudinec/"
+    - name: "codeberg"
+      url: "https://codeberg.org/claudinec"
     - name: "github"
       url: "https://github.com/claudinec"
     - name: "mastodon"

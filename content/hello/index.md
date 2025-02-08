@@ -48,6 +48,7 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :mortar_board: [ORCID](https://orcid.org/0000-0001-5916-0277)
 * :toolbox: [IndieWeb wiki](https://indieweb.org/User:Www.claudinec.net)
 * :hut: [Sourcehut](https://sr.ht/~claudinec/)
+* :mountain: [Codeberg](https://codeberg.org/claudinec)
 * :octopus: [GitHub](https://github.com/claudinec)
 * :bookmark: [Pinboard](https://pinboard.in/u:claudinec)
 * :newspaper: [NewsBlur](https://claudinec.newsblur.com/)
