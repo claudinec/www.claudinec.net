@@ -44,4 +44,5 @@ ShowBreadCrumbs: true
 ShowWordCount: true
 ShowFullTextinRSS: true
 ShowRssButtonInSectionTermList: true
+ShowCodeCopyButtons: true
 
