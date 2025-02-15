@@ -4,7 +4,7 @@ summary: Brief usage notes on ArchiveBox and wget
 author: Claudine Chionh
 draft: false
 date: 2025-02-08
-tags: [web-archiving, data-archiving, archivebox, wget]
+tags: [safeguarding-research, digital-preservation, web-archiving, data-archiving, archivebox, wget]
 ---
 
 I have been archiving copies of various websites that are in danger of disappearing or changing in the very near future. My two favourite tools for this are ArchiveBox and `wget`. These are just some brief usage notes for my own reference and possibly useful to others. To learn about urgent (early 2025) web- and data-archiving initiatives, visit the [Safeguarding Research forum](https://safeguarding-research.discourse.group/) or follow the `#SafeguardingResearch` and `#DataRescue` hashtags on the fediverse and Bluesky.
