@@ -3,7 +3,7 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01
-lastmod: 2025-02-02
+lastmod: 2025-02-25
 draft: false
 tags: [books, reading]
 sitemap:
@@ -15,7 +15,6 @@ sitemap:
 I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, here's his [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) (or the [Wikipedia version with ISBNs](https://en.wikipedia.org/wiki/Charles_Stross_bibliography#The_Laundry_Files)).
 
 * Fiction
-  * {{< book title="Season of Skulls" author="Charles Stross" year=2023 olWork="OL27084423W" wikidataItem="Q125648057" >}}
   * {{< book title="Metamorphoses" author="Ovid" translator="David Raeburn" year=2004 olWork="OL13608806W" wikidataItem="Q106595694" >}}
 * Non-fiction
   * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 olWork="OL21043904W" >}}
@@ -32,6 +31,7 @@ I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, 
 
 * Fiction
   * {{< book title="Quantum of Nightmares" author="Charles Stross" year=2022 olWork="OL25023483W" wikidataItem="Q125647954" >}}
+  * {{< book title="Season of Skulls" author="Charles Stross" year=2023 olWork="OL27084423W" wikidataItem="Q125648057" >}}
 
 ## Read in 2024
 
