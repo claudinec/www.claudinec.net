@@ -8,7 +8,7 @@ This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://ww
 
 | Env  |   Hugo  |    Go   |
 |:-----|:-------:|:-------:|
-| Dev  | 0.144.1 |  1.24.0 |
+| Dev  | 0.144.2 |  1.24.0 |
 | Prod | 0.140.2 | 1.21.13 |
 
 ## Licence
