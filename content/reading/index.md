@@ -3,7 +3,7 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01
-lastmod: 2025-02-25
+lastmod: 2025-02-28
 draft: false
 tags: [books, reading]
 sitemap:
@@ -19,6 +19,7 @@ I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, 
 * Non-fiction
   * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 olWork="OL21043904W" >}}
   * {{< book title="The Internet Con: How to Seize the Means of Computation" author="Cory Doctorow" year=2023 olWork="OL28800590W" wikidataItem="Q123916686" >}}
+  * {{< book title="Economic and Philosophical Manuscripts" author="Karl Marx" translator="Rodney Livingstone and Gregor Benton" year=1844 wikidataItem="Q295347" >}} (re-read)
 
 ## Stalled
 
