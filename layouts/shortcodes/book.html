@@ -1,4 +1,4 @@
-<!-- args: author title year olWork -->
+<!-- args: title author translator year originalYear olWork wikidataItem -->
 <!-- h-cite spec: https://microformats.org/wiki/h-cite -->
 <!-- Open Library API: https://openlibrary.org/dev/docs/api/books -->
 <span class="h-cite book">
@@ -6,10 +6,8 @@
     <cite class="p-name">
         <em>{{ .Get "title" }}</em>
     </cite>
-    {{ with .Get "translator" }}
-        (translated by {{ . }},
     {{ if .Get "translator" }}
-        <time class="dt-published">{{ .Get "year" }}</time>)
+        (translated by {{ . }}, <time class="dt-published">{{ .Get "year" }}</time> [{{ .Get "originalYear" }}])
     {{ else }}
         (<time class="dt-published">{{ .Get "year" }}</time>)
     {{ end }}
@@ -18,4 +16,5 @@
     {{ end }}
     {{ with .Get "olWork" }}
         &middot; <small><em><a class="u-url" href="https://openlibrary.org/works/{{ . }}">Open Library</a></em></small>
+    {{ end }}
 </span>
