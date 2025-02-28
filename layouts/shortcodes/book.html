@@ -7,14 +7,14 @@
         <em>{{ .Get "title" }}</em>
     </cite>
     {{ if .Get "translator" }}
-        (translated by {{ . }}, <time class="dt-published">{{ .Get "year" }}</time> [{{ .Get "originalYear" }}])
+        (translated by {{ .Get "translator" }}, <time class="dt-published">{{ .Get "year" }}</time> [{{ .Get "originalYear" }}])
     {{ else }}
         (<time class="dt-published">{{ .Get "year" }}</time>)
     {{ end }}
     {{ with .Get "wikidataItem" }}
-        &middot; <small><em><a class="u-url" href="https://www.wikidata.org/wiki/{{ . }}">Wikidata</a></em></small>
+        &middot;&nbsp;<small><em><a class="u-url" href="https://www.wikidata.org/wiki/{{ . }}">Wikidata</a></em></small>
     {{ end }}
     {{ with .Get "olWork" }}
-        &middot; <small><em><a class="u-url" href="https://openlibrary.org/works/{{ . }}">Open Library</a></em></small>
+        &middot;&nbsp;<small><em><a class="u-url" href="https://openlibrary.org/works/{{ . }}">Open Library</a></em></small>
     {{ end }}
 </span>
