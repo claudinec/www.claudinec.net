@@ -15,7 +15,7 @@ sitemap:
 I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, here's his [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) (or the [Wikipedia version with ISBNs](https://en.wikipedia.org/wiki/Charles_Stross_bibliography#The_Laundry_Files)).
 
 * Fiction
-  * {{< book title="Metamorphoses" author="Ovid" translator="David Raeburn" year=2004 olWork="OL13608806W" wikidataItem="Q106595694" >}}
+  * {{< book title="Metamorphoses" author="Ovid" translator="David Raeburn" year=2004 originalYear=8 olWork="OL13608806W" wikidataItem="Q106595694" >}}
 * Non-fiction
   * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 olWork="OL21043904W" >}}
   * {{< book title="The Internet Con: How to Seize the Means of Computation" author="Cory Doctorow" year=2023 olWork="OL28800590W" wikidataItem="Q123916686" >}}
