@@ -1,23 +1,20 @@
-<!-- args: author title year olWork -->
+<!-- args: title author translator year originalYear olWork wikidataItem -->
 <!-- h-cite spec: https://microformats.org/wiki/h-cite -->
 <!-- Open Library API: https://openlibrary.org/dev/docs/api/books -->
 <span class="h-cite book">
     <span class="p-author h-card">{{ .Get "author" }}</span>,
     <cite class="p-name">
-    {{ with .Get "olWork" }}
-        <a class="u-url" href="https://openlibrary.org/works/{{ . }}">
-    {{ end }}
-    <em>{{ .Get "title" }}</em>
-    {{ if .Get "olWork" -}}
-        </a>
-    {{ end }}
+        <em>{{ .Get "title" }}</em>
     </cite>
-    {{ with .Get "translator" }}
-        (translated by {{ . }},
-    {{ end }}
     {{ if .Get "translator" }}
-        <time class="dt-published">{{ .Get "year" }}</time>)
+        (translated by {{ . }}, <time class="dt-published">{{ .Get "year" }}</time> [{{ .Get "originalYear" }}])
     {{ else }}
         (<time class="dt-published">{{ .Get "year" }}</time>)
+    {{ end }}
+    {{ with .Get "wikidataItem" }}
+        &middot; <small><em><a class="u-url" href="https://www.wikidata.org/wiki/{{ . }}">Wikidata</a></em></small>
+    {{ end }}
+    {{ with .Get "olWork" }}
+        &middot; <small><em><a class="u-url" href="https://openlibrary.org/works/{{ . }}">Open Library</a></em></small>
     {{ end }}
 </span>
