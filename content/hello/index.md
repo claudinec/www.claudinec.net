@@ -4,7 +4,7 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
-lastmod: 2025-02-08
+lastmod: 2025-04-20
 tags:
 - hello
 - contact
@@ -31,7 +31,7 @@ I prefer [plain text email](https://useplaintext.email/), but am forgiving of th
 
 ### :iphone: Phone
 
-**Please don't call me without advance warning; send me a text.** iMessage, [Signal](https://signal.org/), and SMS are all fine with me. If you don't already have my number, you can use my Signal username: [`claudinec.61`](https://signal.me/#eu/ge1HivyRywcgzozT1FTghdZKDktEuHhQC59rD2R4f82IF0qgmIBCgKb-TKdDARKa) (link opens in Signal app).
+**Please don't call me without advance warning; send me a text.** [Signal](https://signal.org/), iMessage, and SMS are all fine with me. If you don't already have my number, you can use my Signal username: [`claudinec.61`](https://signal.me/#eu/ge1HivyRywcgzozT1FTghdZKDktEuHhQC59rD2R4f82IF0qgmIBCgKb-TKdDARKa) (link opens in Signal app).
 
 ### :rainbow_flag: Work-related
 
