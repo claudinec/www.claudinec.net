@@ -47,7 +47,7 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :book: [Wikimedia](https://meta.wikimedia.org/wiki/User:ClaudineChionh) ([Wikipedia](https://en.wikipedia.org/wiki/User:ClaudineChionh) and friends)
 * :mortar_board: [ORCID](https://orcid.org/0000-0001-5916-0277)
 * :toolbox: [IndieWeb wiki](https://indieweb.org/User:Www.claudinec.net)
-* :hut: [Sourcehut](https://sr.ht/~claudinec/)
+* :hut: [SourceHut](https://sr.ht/~claudinec/)
 * :mountain: [Codeberg](https://codeberg.org/claudinec)
 * :octopus: [GitHub](https://github.com/claudinec)
 * :bookmark: [Pinboard](https://pinboard.in/u:claudinec)
