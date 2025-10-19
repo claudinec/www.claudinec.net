@@ -4,7 +4,7 @@ title: Hello! 👋🏼
 author: Claudine Chionh
 draft: false
 date: 2024-06-22
-lastmod: 2025-04-20
+lastmod: 2025-10-19
 tags:
 - hello
 - contact
@@ -45,6 +45,7 @@ Have a question about the Australian Queer Archives? Visit our [Hello](https://q
 * :butterfly: Bluesky: [`@claudinec.net`](https://bsky.app/profile/claudinec.net) but mostly to follow people who aren't in the Fediverse
 * :speech_balloon: IRC: `claudinec` on `irc.libera.chat`
 * :book: [Wikimedia](https://meta.wikimedia.org/wiki/User:ClaudineChionh) ([Wikipedia](https://en.wikipedia.org/wiki/User:ClaudineChionh) and friends)
+* :bee: [Beeminder](https://www.beeminder.com/claudine)
 * :mortar_board: [ORCID](https://orcid.org/0000-0001-5916-0277)
 * :toolbox: [IndieWeb wiki](https://indieweb.org/User:Www.claudinec.net)
 * :hut: [SourceHut](https://sr.ht/~claudinec/)
