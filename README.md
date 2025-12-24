@@ -6,14 +6,13 @@ This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://ww
 
 ## Environment versions
 
-| Env  |   Hugo  |    Go   |
+| Env  |  Hugo   |   Go    |
 |:-----|:-------:|:-------:|
-| Dev  | 0.144.2 |  1.24.0 |
-| Prod | 0.140.2 | 1.21.13 |
+| Dev  | 0.153.2 | 1.25.5  |
+| Prod | 0.145.0 | 1.21.13 |
 
 ## Licence
 
 Copyright (C) Claudine Chionh
 
 The content of this website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
