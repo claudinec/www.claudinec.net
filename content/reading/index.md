@@ -3,36 +3,19 @@ title: "Reading"
 description:
 author: Claudine Chionh
 date: 2024-04-01
-lastmod: 2025-02-28
+lastmod: 2025-12-26
 draft: false
 tags: [books, reading]
 sitemap:
   changeFreq: monthly
 ---
 
-## Currently reading
-
-I'm binge-reading Charlie Stross's *Laundry Files* series – for my reference, here's his [chronology](https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html) (or the [Wikipedia version with ISBNs](https://en.wikipedia.org/wiki/Charles_Stross_bibliography#The_Laundry_Files)).
-
-* Fiction
-  * {{< book title="Metamorphoses" author="Ovid" translator="David Raeburn" year=2004 originalYear=8 olWork="OL13608806W" wikidataItem="Q106595694" >}}
-* Non-fiction
-  * {{< book title="Thinking the Twentieth Century" author="Tony Judt with Timothy Snyder" year=2012 olWork="OL21043904W" >}}
-  * {{< book title="The Internet Con: How to Seize the Means of Computation" author="Cory Doctorow" year=2023 olWork="OL28800590W" wikidataItem="Q123916686" >}}
-  * {{< book title="Economic and Philosophical Manuscripts" author="Karl Marx" translator="Gregor Benton" year=1974 originalYear=1844 wikidataItem="Q295347" >}} (re-read)
-
-## Stalled
-
-* Non-fiction
-  * {{< book title="The Age of Surveillance Capitalism" author="Shoshana Zuboff" year=2019 olWork="OL18201749W" >}}
-  * {{< book title="Keeping Archives" author="Jackie Bettington et. al." year=2008 olWork="OL17048467W" >}}
-  * {{< book title="Disordered Attention: How We Look at Art and Performance Today" author="Claire Bishop" year=2024 olWork="OL37572988W" >}}
-
 ## Read in 2025
 
 * Fiction
   * {{< book title="Quantum of Nightmares" author="Charles Stross" year=2022 olWork="OL25023483W" wikidataItem="Q125647954" >}}
   * {{< book title="Season of Skulls" author="Charles Stross" year=2023 olWork="OL27084423W" wikidataItem="Q125648057" >}}
+  * {{< book title="The Player of Games" author="Iain M. Banks" year=1988 wikidataItem="Q467139" olWork="OL100779W" >}}
 
 ## Read in 2024
 
