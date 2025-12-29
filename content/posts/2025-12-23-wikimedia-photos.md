@@ -9,11 +9,9 @@ draft: true
 tags: ["wikipedia", "wikimedia-commons"]
 ---
 
-Summarising for the purpose of pinning:
+If there is a Wikipedia article about you (in any language) which has an unflattering photo of you, or if it doesn't have a photo of you at all, you can fix this! The quickest solution is to take a good photo of yourself – copyright of photos belongs to the photographer, so a selfie simplifies the process. You can also use a photo that someone else has taken if it has an appropriate licence.
 
-If there is a #Wikipedia article about you (in any language) which has an unflattering photo of you, or if it doesn't have a photo of you at all, you can fix this! The quickest solution is to take a good photo of yourself – copyright of photos belongs to the photographer, so a selfie simplifies the process. You can also use a photo that someone else has taken if it has an appropriate licence.
-
-Photos and media files are uploaded to #WikimediaCommons so they can be used in any Wikipedia or other #Wikimedia project. All text and media content on Wikimedia projects must have a public domain or free content licence. We prefer CC-BY-SA and CC0. These licences are irrevocable and cannot restrict where or how they are used.
+Photos and media files are uploaded to Wikimedia Commons so they can be used in any Wikipedia or other Wikimedia project. All text and media content on Wikimedia projects must have a public domain or free content licence. We prefer CC-BY-SA and CC0. These licences are irrevocable and cannot restrict where or how they are used.
 
 <https://commons.wikimedia.org/wiki/Commons:Licensing#Acceptable_licenses>
 
