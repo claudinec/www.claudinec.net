@@ -31,7 +31,9 @@ More info at [A picture of you](https://en.wikipedia.org/wiki/WP:PICYOU).
 
 ----
 
-This post started off as a summary of my responses to the founder of Mastodon [complaining about his Wikipedia photo](https://mastodon.social/@Gargron/115761881969118335). I don't think he's posted a preferred photo yet, but I'm leaving this here for the benefit of anyone else who doesn't like their photo.
+This post started off as a summary of my responses to the founder of Mastodon [complaining about his Wikipedia photo](https://mastodon.social/@Gargron/115761881969118335).[^absence] I don't think he's posted a preferred photo yet, but I'm leaving this here for the benefit of anyone else who doesn't like their photo.
+
+[^absence]: Oops, I haven't posted on this blog in over ten months! I've spent most of my personal online time on Wikipedia this year. I'm not going to make any promises about reviving my blogging habit.
 
 Additional notes prompted by fediverse responses:
 
