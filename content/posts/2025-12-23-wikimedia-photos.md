@@ -4,8 +4,8 @@ title: "Advice for notable people who hate their Wikipedia photo"
 description: Are you a Wikipedia-notable person? We want your photo!
 author: Claudine Chionh
 date: "2025-12-23T00:35:33.830Z"
-publishDate:
-draft: true
+publishDate: 2025-12-29
+draft: false
 tags: ["wikipedia", "wikimedia-commons"]
 ---
 
