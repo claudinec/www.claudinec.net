@@ -6,10 +6,10 @@ This is the [Hugo](https://gohugo.io/) source for [www.claudinec.net](https://ww
 
 ## Environment versions
 
-| Env  |  Hugo   |   Go    |
-|:-----|:-------:|:-------:|
-| Dev  | 0.153.2 | 1.25.5  |
-| Prod | 0.145.0 | 1.21.13 |
+| Env  |   Hugo  |   Go   |
+|:-----|:-------:|:------:|
+| Dev  | 0.153.2 | 1.25.5 |
+| Prod | 0.150.1 | 1.24.9 |
 
 ## Licence
 
